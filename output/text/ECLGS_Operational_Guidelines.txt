@@ -1,0 +1,531 @@
+ 
+Emergency Credit Line Guarantee Scheme (ECLGS) 
+Operational Guidelines 
+ 
+1. Name of the Scheme:  
+The Scheme shall be named as ‘Emergency Credit Line Guarantee Scheme (ECLGS)’ 
+(hereinafter referred as the ‘Scheme’) and the credit product for which guarantee would 
+be provided under the Scheme shall be named as ‘Guaranteed Emergency Credit Line 
+(GECL)’ 
+2. Purpose of the Scheme:  
+To provide 100% guarantee coverage for the GECL, which shall be a pre-approved 
+sanction limit of up to 20% of loan outstanding as on 29th February, 2020 to eligible 
+borrowers, in the form of additional working capital term loan facility (in case of banks 
+and Financial Institutions), and additional term loan facility (in case of NBFCs) from all 
+Member Lending Institutions (MLIs) to eligible Business Enterprises / Micro, Small and 
+Medium Enterprise (MSME) borrowers, including interested PMMY borrowers , in view 
+of COVID-19 crisis, as a special Scheme. 
+3. Date of commencement 
+Scheme shall come into force from the date of issue of these guidelines by NCGTC. 
+4. Definitions 
+For the purposes of this Scheme – 
+• 
+“Amount in Default” means the principal and interest amount outstanding in 
+the account of the borrower in respect of term loan/working capital term loan 
+facility (including interest) as the case may be, as on the date of the account 
+becoming NPA, or on the date of lodgment of claim application, whichever is 
+lower, or on such other date as may be specified by Trustee Company for 
+preferring any claim against the guarantee cover subject to a maximum of 
+amount guaranteed. 
+• 
+“Credit facility” means financial assistance provided under the Scheme by way 
+of additional working capital term loan facility (in case of banks and Financial 
+Institutions), and additional term loan facility (in case of NBFCs) extended by all 
+Member Lending Institution (MLI) to eligible Business Enterprises / Micro, Small 
+and Medium Enterprise (MSME) borrowers. The financial assistance provided as 
+part of the Scheme is to be operated as a separate loan account. 
+• 
+“Eligible borrower” means all Business Enterprises / MSME institution borrower 
+accounts with outstanding loans of up to Rs. 25 crore as on 29.2.2020, and annual 
+
+ 
+turnover of up to Rs. 100 crore in FY 2019-20. In case accounts for FY 2019-20 
+are yet to be audited/finalized, the MLI may rely upon the borrower’s declaration 
+of turnover. The Scheme is valid for existing customers on the books of the MLI. 
+Borrower accounts should be less than 60 days past due as on 29th February, 
+2020 in order to be eligible under the Scheme. For the purpose of this Scheme, 
+Business Enterprises / MSMEs would also include loans covered under Pradhan 
+Mantri Mudra Yojana (PMMY). ‘Guarantee Cover’ means maximum cover available 
+per eligible borrower of the amount in default in respect of the credit facility 
+extended by the lending institution. For this Scheme, the guarantee coverage 
+would be 100% of the amount in default. 
+• 
+“Member Lending Institution(s)” (MLI) 
+o Banks: All  Scheduled Commercial Banks. 
+o Financial Institutions: As defined in sub-clause (i) of clause (c) of Section 45-
+I of Reserve Bank of India Act.  
+o NBFC: "Non-Banking Financial Company”  means a non-banking financial 
+company as defined in clause (f) of section 45-I of the RBI Act, 1934 and 
+which has its principal business as defined by RBI and has been granted 
+a certificate of registration under sub-section (1) of section 3 of the Act. All 
+NBFCs which have been in operation for 2 years as on 29th February, 2020 
+would be eligible under the Scheme. 
+• 
+“Non-Performing Assets” means an asset classified as non-performing based on 
+the instructions and guidelines issued by the Reserve Bank of India from time to 
+time 
+• 
+“Primary security” in respect of a credit facility shall mean the assets created 
+out of the credit facility so extended  
+• 
+“Interest Rate” for a lending institution means the rate so declared by that 
+lending institution from time to time as per Reserve Bank of India guidelines 
+based on which interest rate applicable for the loan will be determined.  
+• 
+“Tenure of guarantee cover” means the maximum period of guarantee cover 
+from the Guarantee sanction date, and it shall be co-terminus with the tenor of 
+the loan under GECL 
+ 
+ 
+SCOPE AND EXTENT OF THE SCHEME 
+5. Eligible MLIs 
+ 
+• 
+MLIs for this purpose shall include all Scheduled Commercial Banks (SCBs), Non-
+Banking Financial Companies (NBFCs) and Financial Institutions (FIs), as 
+specified above.  
+• 
+All NBFCs which have been in operation for 2 years as on 29th February, 2020 
+would be eligible under the Scheme. 
+ 
+
+ 
+6. Duration 
+• 
+The Scheme would be applicable to all loans sanctioned under GECL during the 
+period from the date of issue of these guidelines by NCGTC to 31.10.2020, or till 
+an amount of Rs 3,00,000 crore is sanctioned under the GECL, whichever is 
+earlier. 
+ 
+7. Eligible Borrowers 
+• 
+All Business Enterprises /MSME borrower accounts with combined outstanding 
+loans across all MLIs of up to Rs. 25 crore as on 29.2.2020, and annual turnover 
+of up to Rs. 100 crore for FY 2019-20 are eligible for the Scheme. MLIs are expected 
+to check with credit bureau the overall outstanding of the borrower to assess the 
+eligibility of the borrower. 
+• 
+Loans provided to Business Enterprises / MSMEs constituted as Proprietorship, 
+Partnership, registered company, trusts and Limited Liability Partnerships (LLPs) 
+shall be eligible under the Scheme. For instance, any existing loan such as CV 
+loan taken by an entity shall be covered but CV loan taken by promoter or director 
+in personal capacity shall not be covered. 
+• 
+For the purpose of this Scheme, Business Enterprises / MSMEs would include 
+loans covered under Pradhan Mantri Mudra Yojana extended on or before 
+29.2.2020, and reported on the MUDRA portal. All eligibility conditions including 
+the condition related to Days past due would also apply to PMMY loans. 
+• 
+For loans having co-applicant, only those existing loans where entity is the 
+primary co-applicant are covered under the Scheme for additional emergency 
+funding. 
+• 
+Loans provided in individual capacity are not covered under the Scheme. 
+• 
+The Scheme is valid for existing customers on the books of the MLIs. Borrower 
+accounts should be less than or equal to 60 days past due as on 29th February, 
+2020 in order to be eligible under the Scheme. i.e. All borrowers which have not 
+been classified as SMA 2 or NPA by any of the MLIs as on 29th February, 2020 
+will be eligible for the Scheme 
+• 
+Days Past Due status as on 29.2.2020 to be checked across MLIs from credit 
+bureau. 
+• 
+Business Enterprises / MSME borrower accounts which had NPA or SMA-2 status 
+as on 29.2.2020 shall not be eligible under the Scheme. 
+• 
+Business Enterprises / MSME borrower must be GST registered in all cases where 
+such registration is mandatory. This condition will not apply to Business 
+Enterprises / MSMEs that are not required to obtain GST registration. 
+• 
+An ‘opt-out’ option should be provided to the eligible Business Enterprises / MSME 
+borrowers to enable them to choose whether they wish to opt out of the GECL 
+facility. 
+
+ 
+• 
+For the purpose of this Scheme it is not necessary that the existing loans of the 
+borrowers should be covered under the existing NCGTC or CGTMSE Scheme. 
+• 
+Some examples on the eligibility of the borrowers are indicated below 
+ 
+Name of 
+the 
+Borrower 
+Overall 
+Outstanding 
+of the 
+Borrower 
+across MLIs 
+(INR Crore) 
+Overall 
+Outstanding 
+of the 
+Borrower 
+with MLI (INR 
+Crore) 
+DPD of 
+borrower 
+as on 
+29th Feb 
+2020 
+(Days) 
+Turnover 
+as per 
+latest 
+available 
+financials 
+(INR Crore) 
+ 
+Borrower 
+A 
+30 
+15 
+30 
+90 
+Not 
+eligible 
+Borrower 
+B 
+30 
+15 
+62 
+90 
+Not 
+eligible 
+Borrower 
+C 
+25 
+25 
+59 
+75 
+Eligible 
+Borrower 
+D 
+15 
+10 
+0 
+80 
+Eligible 
+Borrower 
+E 
+20 
+10 
+0 
+125 
+Not 
+Eligible 
+ 
+ 
+8. Loan Amount eligible under the Guarantee Coverage 
+• 
+The amount of GECL funding to eligible Business Enterprises / MSME borrowers 
+either in the form of additional working capital term loan facility (in case of banks 
+and Financial Institutions), and additional term loan facility (in case of NBFCs) 
+would be up to 20% of their total outstanding loans up to Rs. 25 crore as on 29th 
+February, 2020, subject to the borrower meeting all the eligibility criteria. 
+• 
+Total Outstanding Amount would comprise of the on-balance sheet exposure 
+such as outstanding amount across WC loans, term loans and WCTL loans. Off-
+balance sheet and non-fund based exposures will be excluded. 
+• 
+MLIs are expected to check with credit bureau the overall outstanding of the 
+borrower to assess the overall additional loan amount eligible for sanction under 
+the Scheme. 
+• 
+MLIs would be required to open a separate account for Credit Facility extended 
+through the Scheme 
+• 
+Loans extended through current Government schemes such as PMEGP, PMMY 
+etc. would continue to be categorized under that scheme as earlier. WCTL/Term 
+Loans under this Scheme shall be over and above the existing loan. 
+• 
+In case a borrower has existing limits with multiple lenders, GECL may be availed 
+either through one lender or multiple lenders depending upon the agreement 
+between the borrower and the MLI.  
+• 
+In case the borrower wishes to take from any lender an amount more than the 
+proportional 20% of the outstanding credit that the borrower has with that 
+
+ 
+particular lender, a No Objection Certificate (NOC) would be required from all 
+other lenders.  
+• 
+No NOC will, however, be required if the GECL availed from a particular lender is 
+limited to the proportional 20% of the outstanding credit that the borrower has  
+with that lender. 
+• 
+MLIs are expected to have simple and enabling criteria to assess the borrower 
+eligibility. Since the loans are being provided to existing borrowers it is expected 
+that the time required for due diligence would be minimal in nature. MLIs should 
+work towards enabling access of this  facility to all the eligible borrowers by 
+educating borrowers regarding the Scheme and steps to avail credit under the 
+Scheme. 
+• 
+Examples to calculate the loan amount covered under the Guarantee coverage:  
+ 
+Name of the 
+Borrower 
+Overall 
+Outstanding 
+of the 
+Borrower 
+across MLIs 
+(INR Crore) 
+Overall 
+Outstanding of 
+the Borrower 
+with MLI  
+(INR Crore) 
+Total 
+Maximum 
+Loan Amount 
+allowed under 
+the scheme 
+(INR Crore) 
+Total 
+Maximum 
+Loan Amount 
+allowed 
+without NOC 
+for MLI 
+(INR Crore) 
+ 
+A 
+B 
+C= 20% of A 
+D= 20% of B 
+Borrower A 
+20 
+15 
+4 
+3 
+Borrower B 
+5 
+2 
+1 
+0.4 
+Borrower C 
+25 
+25 
+5 
+5 
+Borrower D 
+15 
+10 
+3 
+2 
+ 
+9. Interest Rate of Credit under the Scheme 
+Interest Rate on GECL shall be capped as under: 
+• 
+For Banks and FIs, lending rate linked to one of the external benchmark rates 
+prescribed by RBI +1% subject to a maximum of 9.25% per annum. 
+• 
+For NBFCs, the interest rate on GECL shall not exceed 14% per annum. 
+• 
+Since the additional pre-approved facility is to be provided to existing 
+customers, no additional processing fee shall be charged by MLIs to borrowers. 
+• 
+No penal interest due to any non-compliance of the already accepted covenants 
+on the existing credit facilities may be charged on additional loans during the 
+sanction time.  
+ 
+10. 
+Nature of account and Tenor of Credit under the Scheme 
+• 
+A separate loan account should be opened for the borrower, distinct from the 
+existing loan account(s), for coverage under the Scheme. 
+• 
+The tenor of loans provided under GECL shall be for a tenor of four years from 
+the date of disbursement. No pre-payment penalty shall, however, be charged 
+by the MLIs in case of early repayment. 
+
+ 
+• 
+Moratorium period of one year on the principal amount shall be provided to 
+borrowers for the GECL funding during which interest shall be payable  
+• 
+The principal shall be repaid in 36 installments after the moratorium period is 
+over. 
+• 
+Pre-payment of facilities to be allowed at no additional charge to the borrower. 
+• 
+The account may be operated in combination with applicable Interest 
+Subvention Scheme(s) as far as feasible 
+• 
+RBI’s approval has been solicited for keeping risk weight for loans provided 
+under GECL at zero. 
+ 
+11. 
+Security  
+• 
+The additional WCTL (in case of banks and FIs)/ Term loan (in case of NBFCs) 
+facility granted under GECL shall rank pari passu with the existing credit 
+facilities in terms of cash flows and security, with charge on the assets financed 
+under the Scheme to be created within a period of three months from the date 
+of disbursal.  
+• 
+No additional collateral shall be asked for additional funding under GECL. 
+ 
+12. 
+Guarantee Fee 
+• 
+No Guarantee Fee shall be charged from the MLIs by NCGTC for the Credit 
+facilities provided under the Scheme.  
+ 
+13. 
+Extent of the Guarantee Coverage 
+• 
+The Trustee Company shall provide 100% Guarantee coverage on the 
+outstanding amount for the credit facility provided under the Scheme as on the 
+date of NPA. 
+ 
+14. 
+Definition of Default 
+• 
+The definition of default for borrowers shall be as per the instructions and 
+guidelines issued by the Reserve Bank of India from time to time under extant 
+norms on income recognition, asset classification and provisioning. 
+ 
+15. 
+Invocation of guarantee 
+ 
+• 
+The Member Lending Institutions (MLIs) are required to inform the date on 
+which the account was classified as NPA within 90 days of the account being 
+classified as NPA  
+• 
+The Trustee Company shall pay 75 per cent of the guaranteed amount within 
+30 days of preferring of eligible claim by the lending institution, subject to the 
+claim being otherwise found in order and complete in all respects. The balance 
+25 per cent of the guaranteed amount will be paid on conclusion of recovery 
+proceedings or till the decree gets time barred, whichever is earlier. 
+ 
+16. 
+Appropriation of amount realized by the lending institution in respect of a 
+
+ 
+credit facility after the guarantee has been invoked 
+ 
+Post invocation of the guarantee claim, if any recoveries are made in the account, MLIs 
+shall first adjust such recoveries towards the legal costs incurred by them for recovery 
+of the amount and shall thereafter remit to NCGTC the balance recoveries.  
+ 
+ 
+17. 
+Agreement to be executed by the lending institution  
+ 
+• 
+A lending institution shall not be entitled to a guarantee in respect of any eligible 
+credit facility granted by it unless it has submitted an Undertaking with the 
+Trustee Company in such form as may be required by the Trustee Company for 
+covering by way of guarantee, under the Scheme all the eligible credit facilities 
+granted by the lending institution, for which provision has been made in the 
+Scheme. 
+• 
+All interested and eligible MLIs are required to submit the Undertaking to 
+NCGTC for the purpose of this Scheme 
+ 
+18. 
+Responsibilities of lending institution under the Scheme: 
+• 
+Lending Institutions shall provide certain data points on a fortnightly basis to 
+Trustee Company to enable Trustee Company to track the outreach and impact 
+of the Scheme. The indicative data points required shall be as follows 
+o Number of eligible borrowers and the amount outstanding as on 29th 
+February, 2020 (to be shown separately for Business Enterprises, MSME 
+and PMMY borrowers) 
+o Number of Business Enterprises, MSME and PMMY borrowers sanctioned 
+GECL facility under the Scheme (to be shown separately for MSME and 
+PMMY borrowers) 
+o Number of Business Enterprises, MSME and PMMY borrowers disbursed 
+GECL facility under the Scheme (to be shown separately for MSME and 
+PMMY borrowers) 
+o Total Amount of Funds sanctioned under the Scheme with break up across 
+TL (in case of NBFCs) and WCTL (in case of banks and FIs), to be shown 
+separately for Business Enterprises, MSME and PMMY borrowers 
+o Total Amount of Funds disbursed under the Scheme with break up 
+across TL (in case of NBFCs) and WCTL (in case of banks and FIs), to be 
+shown separately for Business Enterprises, MSME and PMMY borrowers 
+o Total Outstanding Amount for Term loans (in case of NBFCs) and for WCTL 
+(in case of banks and FIs), to be shown separately for Business 
+Enterprises, MSME and PMMY borrowers 
+o Number of employees employed by the borrowers, to be shown separately 
+for Business Enterprises, MSME and PMMY borrowers (to be provided at 
+the time of sanction and then to be updated monthly) 
+o Default ratio and NPA ratio 
+
+ 
+(NCGTC may seek additional information from MLIs within extant 
+regulation) 
+• 
+Should enable communication of the Scheme to the borrowers by highlighting 
+the Scheme details on their website and linking to Scheme webpage. 
+• 
+As this is an opt out facility, Lending institution should work towards creating 
+awareness for the Scheme by enabling communication of the Scheme through 
+SMS and Email campaigns to all eligible borrowers. 
+• 
+Lending Institutions are expected to be liberal in sanctioning loans. They are, 
+however, expected to  evaluate credit proposals by using prudent banking 
+judgement and use their business discretion / due diligence in selecting 
+commercially viable proposals and conduct the account(s) of the borrowers with 
+normal banking prudence. 
+• 
+The lending institution shall closely monitor the borrower account, and shall put 
+in all required efforts to ensure that the account is serviced regularly. 
+• 
+The lending institution shall safeguard the primary securities in respect of the 
+credit facility in good and enforceable condition. 
+• 
+The lending institution shall ensure that the guarantee claim in respect of the 
+credit facility and borrower is lodged with the Trustee Company in the form and 
+in the manner and within such time as may be specified by the Trustee Company 
+in this behalf and that there are no delays on its part to notify the default in the 
+borrowers account which shall result in the Trustee Company facing higher 
+guarantee claims. 
+• 
+The payment of guarantee claim by the Trustee Company to the lending 
+institution does not in any way take away the responsibility of the lending 
+institution to recover the entire outstanding amount of the credit from the 
+borrower. The lending institution shall exercise all the necessary precautions and 
+maintain its recourse to the borrower for entire amount of credit facility owed by 
+it and initiate all necessary actions for recovery of the outstanding amount, 
+including such action as may be advised by the Trustee Company. 
+• 
+The lending institution shall comply with such directions as may be issued by 
+the Trustee Company from time to time for facilitating recoveries in the 
+guaranteed account, or safeguarding its interest as a guarantor, as the Trustee 
+Company may deem fit and the lending institution shall be bound to comply with 
+such directions. 
+• 
+The lending institution shall, in respect of any guaranteed account, exercise the 
+same diligence in recovering the dues, and safeguarding the interest of the 
+Trustee Company in all the ways open to it as it might have exercised in the 
+normal course if no guarantee had been furnished by the Trustee Company. The 
+lending institution shall, in particular, refrain from any act of omission or 
+commission, either before or subsequent to invocation of guarantee, which may 
+adversely affect the interest of the Trustee Company as the guarantor. In 
+particular, the lending institution should intimate the Trustee Company while 
+
+ 
+entering into any compromise or arrangement, which may have the effect of 
+discharge or waiver of personal guarantee(s) or security.  
+• 
+The lending institution shall also ensure either through a stipulation in an 
+agreement with the borrower or otherwise, that it shall not create any charge on 
+the security held in the account covered by the guarantee for the benefit of any 
+account not covered by the guarantee, with itself or in favour of any other 
+creditor(s) without intimating the Trustee Company. Further the lending 
+institution shall secure for the Trustee Company or its appointed agency, through 
+a stipulation in an agreement with the borrower or otherwise, the right to list the 
+defaulted borrowers’ names and particulars on the Website of the Trustee 
+Company. 
+ 
+19. 
+Modifications in the Scheme 
+Any changes to the current structure of the Scheme, including but not limited to the 
+eligibility criteria, guarantee fee, rate of interest and tenor of GECL under the 
+Scheme, shall be decided by the Management Committee for the ECLGS Fund. 
+-----xxxxx----- 

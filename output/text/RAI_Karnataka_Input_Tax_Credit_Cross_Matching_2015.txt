@@ -1,0 +1,240 @@
+ 
+111/112, Ascot Centre, Near Hotel ITC Maratha, Sahar Road, Sahar, Andheri (E), Mumbai – 400099 
+Tel: +91 22 28269527 – 29 Fax: +91 22 28269536 Email: info@rai.net.in Website: www.rai.net.in 
+CIN: U91990MH2005GAP151959  
+RAI National Council 
+ 
+B A Kodandarama Setty, 
+Vivek Ltd. 
+B S Nagesh,  
+Shoppers Stop Ltd. 
+Kishore Biyani,  
+Future Group 
+Noel Tata, 
+Trent Ltd.  
+Shashwat Goenka, 
+Spencer’s Retail 
+Vinay Nadkarni,  
+Globus Stores Pvt. Ltd. 
+Atul Chand,  
+ITC - LRBD 
+Bhaskar Bhat,  
+Titan Industries Ltd. 
+Bijou Kurien,  
+L Capital Asia 
+Kabir Lumba,  
+Lifestyle International (P) Ltd. 
+Govind Shrikhande,  
+Shoppers Stop Ltd. 
+Jamshed Daboo, 
+Trent Hypermarket Ltd. 
+Pinakiranjan Mishra, 
+Ernst & Young Pvt. Ltd.  
+Rafique Malik,  
+Metro Shoes Ltd. 
+Rakesh Biyani,  
+Future Group 
+Rahul Mehta,  
+CMAI 
+Shubhranshu Pani, 
+Jones Lang LaSalle 
+J Suresh, 
+Arvind Brands 
+      
+ 
+ 
+  
+ 
+ 
+ 
+   18th June 2015 
+To, 
+Shri Ritvik Pandey ji, 
+Hon’ble Commissioner of Commercial Taxes, 
+Finance Department, 
+Government of Karnataka. 
+ 
+Ref: Circular No. 23/2014-15 dated 27th March 2015 for the cross 
+matching of Input tax credits. 
+ 
+Hon’ble Commissioner of Commercial Taxes, 
+Greetings from Retailers Association of India (RAI)! 
+It is my pleasure to write to you on behalf of RAI. 
+Retailers Association of India (RAI) is the unified voice of Indian retailers 
+working with all the stakeholders for creating the right environment for 
+the growth of the modern retail industry in India. RAI is the body that 
+encourages, develops, facilitates and supports retailers to become modern 
+and adopt best practices that will delight customers. RAI has a three 
+charter aim of Retail Development, Facilitation and Propagation. RAI is the 
+premier body of Retailers in India having around 1000 member 
+establishments including large and small retailers in the country having 
+approximately 1,72,000 stores.  
+ 
+RAI's mission is to develop, facilitate and propagate practices and 
+processes that will grow the Indian retail industry, leading to increased 
+consumption and growth of the economy. Retail industry gets its strength 
+from the expertise of people working in the Industry who in turn create 
+services committed to customer satisfaction. 
+We would like to draw your attention to the circular No. 23/2014-15 dated 
+27th March 2015 for the cross matching of Input tax credits. 
+The Karnataka VAT authorities vide above circular has started the ITC 
+(Input Tax Credit) matching activity in their system i.e. ITC availed by the 
+purchasing dealer vis-a-vis the data uploaded by the selling dealer. This is 
+also known as e-UPass. The activity has started from May-14. 
+The parameters used by the department for matching the ITC is as follows: 
+1. Purchaser TIN 
+
+ 
+111/112, Ascot Centre, Near Hotel ITC Maratha, Sahar Road, Sahar, Andheri (E), Mumbai – 400099 
+Tel: +91 22 28269527 – 29 Fax: +91 22 28269536 Email: info@rai.net.in Website: www.rai.net.in 
+CIN: U91990MH2005GAP151959  
+RAI National Council 
+ 
+B A Kodandarama Setty, 
+Vivek Ltd. 
+B S Nagesh,  
+Shoppers Stop Ltd. 
+Kishore Biyani,  
+Future Group 
+Noel Tata, 
+Trent Ltd.  
+Shashwat Goenka, 
+Spencer’s Retail 
+Vinay Nadkarni,  
+Globus Stores Pvt. Ltd. 
+Atul Chand,  
+ITC - LRBD 
+Bhaskar Bhat,  
+Titan Industries Ltd. 
+Bijou Kurien,  
+L Capital Asia 
+Kabir Lumba,  
+Lifestyle International (P) Ltd. 
+Govind Shrikhande,  
+Shoppers Stop Ltd. 
+Jamshed Daboo, 
+Trent Hypermarket Ltd. 
+Pinakiranjan Mishra, 
+Ernst & Young Pvt. Ltd.  
+Rafique Malik,  
+Metro Shoes Ltd. 
+Rakesh Biyani,  
+Future Group 
+Rahul Mehta,  
+CMAI 
+Shubhranshu Pani, 
+Jones Lang LaSalle 
+J Suresh, 
+Arvind Brands 
+ 
+2. Seller TIN 
+3. Invoice Number 
+4. Invoice Date 
+5. Net Value 
+6. Tax Charged 
+If any of the above parameters do not match, then the system will generate 
+unmatch / mis-match report of the full ITC amount claimed by the 
+purchasing dealer. However, in other states the differences are generated 
+based on TIN no. matching and VAT amount matching. Hence, in such states 
+the difference is much lower compared to the full ITC mis-match generated 
+in Karnataka. 
+The above matching of various parameters has resulted in huge mis-match 
+/ unmatch report for various retailers.  
+The major reason for such differences is on account of invoice number 
+which would have been uploaded by the purchasing and the selling dealer. 
+For e.g. the department does not allow special characters in the invoice no. 
+field in such instances the invoice number would have been entered based 
+on their own assumptions by both the dealers which would result in 
+mismatch. 
+Besides the above mentioned reason there could be various other reasons 
+which could result in mis match as follows: 
+• 
+Time gap in invoice recording by purchasing and selling dealer. 
+• 
+Special characters not allowed in Annexure upload in Karnataka 
+(as given in example above) 
+• 
+Rejections / returns adjusted against different invoice by 
+purchasing and selling dealer. 
+• 
+Annexure uploading not mandatory in Karnataka for vendors 
+below 50 lacs turnover. 
+Constraints / Challenges faced by the purchasing dealer: 
+The list of vendors in retail is large in numbers and the onus is on the 
+purchaser to chase these vendors to ask them to provide: 
+
+ 
+111/112, Ascot Centre, Near Hotel ITC Maratha, Sahar Road, Sahar, Andheri (E), Mumbai – 400099 
+Tel: +91 22 28269527 – 29 Fax: +91 22 28269536 Email: info@rai.net.in Website: www.rai.net.in 
+CIN: U91990MH2005GAP151959  
+RAI National Council 
+ 
+B A Kodandarama Setty, 
+Vivek Ltd. 
+B S Nagesh,  
+Shoppers Stop Ltd. 
+Kishore Biyani,  
+Future Group 
+Noel Tata, 
+Trent Ltd.  
+Shashwat Goenka, 
+Spencer’s Retail 
+Vinay Nadkarni,  
+Globus Stores Pvt. Ltd. 
+Atul Chand,  
+ITC - LRBD 
+Bhaskar Bhat,  
+Titan Industries Ltd. 
+Bijou Kurien,  
+L Capital Asia 
+Kabir Lumba,  
+Lifestyle International (P) Ltd. 
+Govind Shrikhande,  
+Shoppers Stop Ltd. 
+Jamshed Daboo, 
+Trent Hypermarket Ltd. 
+Pinakiranjan Mishra, 
+Ernst & Young Pvt. Ltd.  
+Rafique Malik,  
+Metro Shoes Ltd. 
+Rakesh Biyani,  
+Future Group 
+Rahul Mehta,  
+CMAI 
+Shubhranshu Pani, 
+Jones Lang LaSalle 
+J Suresh, 
+Arvind Brands 
+ 
+ 
+1. The details uploaded in the department website which is a huge 
+task in itself 
+2. Reconcile the data with their own data uploaded  
+3. Request the vendor to make necessary correction by uploading the 
+revised return and 
+4. Get a copy of such revised return to ensure the correction is done 
+by the vendor 
+5. It may also be possible that few of the vendors would not have 
+complied with the tax laws by not uploading the data 
+6. A dealer has to match not only eUPaSS uploaded data but also 
+Karnataka VAT returns data with eUPaSS data, which is a time 
+consuming job 
+7. Man power required, effort and time consumed do all the above 
+activities. 
+Further, the department has also mentioned that “Where the mismatches of 
+purchase and sales statements persist and significant, it may require 
+intervention in the form of manual audit/re-assessment of ITC claims or 
+refunds.” 
+There is a need to remove the onus from the purchasing dealer for such 
+corrections to the selling dealers and also to resolve other possible 
+technical hurdle, which may also cause the MIS-MATCH/UN-MATCH. 
+We can also suggest to follow tin number wise upload, which will help 
+minimizing MIS-MATCH/UN-MATCH to the extent of difference, which can 
+be supported purchase invoice to give the effect and allow the set off to the 
+purchasing dealer. 
+Looking forward to your kind response. 
+Warm Regards, 
+For and on behalf of Retailers Association of India 
+ 
+Gautam Jain, 
+Director - Advocacy, RAI 

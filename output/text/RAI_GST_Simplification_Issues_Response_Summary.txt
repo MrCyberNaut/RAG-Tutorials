@@ -1,0 +1,641 @@
+ 
+ 
+S.No.  Subject 
+Issue & Recommendation 
+Response from Govt. 
+ 
+ 
+I. 
+ 
+ 
+Simplification 
+in GST invoice 
+rules required 
+for B2C Retail 
+trade 
+ 
+ 
+As per GST invoice rules all dealers are required to 
+issue invoice as per format specified. The format 
+of invoice contains details that may not be 
+necessary in B 2 C trade as customers are retail 
+customers and would not be claiming input credit 
+of GST. Invoice compliances will increase the size 
+of the invoice and will have information which 
+might not relevant for customer. 
+ 
+We recommend that the following requirements 
+should be done away with for the invoices issued 
+by the retailers (B2C sale):  
+ 
+1. Capturing of tax rates for each article and 
+providing tax details are not relevant for end 
+customers, as they are concerned with net sale 
+price. 
+ 
+2. HSN Codes are recorded by the retailers in 
+backend in their systems but providing that on 
+invoice will not help retail customers.  
+ 
+3. GST requires invoice to be signed either 
+digitally or physically by authorized person. 
+Retail generates many cash memos and it will 
+be practically difficult to sign each invoice by 
+authorized signatory. Further to sign all invoice 
+digitally with DSC will result in keeping DSC 
+USB with each POS machine.  
+ 
+4. Articles falling under tax rate of 0% are 
+classified as exempt in the GST law. 
+Requirement for tax invoices is made to 
+generate separate tax invoice for exempt 
+goods sold. Hence, if someone buys 0% tax 
+goods like loose grocery, a separate invoice is 
+required to be issued. This will add one 
+additional bill for single sale. 
+ 
+ 
+ADG agreed to issue a 
+clarification that any 
+person (owned or 
+deputed by the 
+Organisation) in store 
+who operates PoS 
+machine is authorised 
+to sign each invoice.  
+b) Category wise tax 
+rate will be summarised 
+as pre GST era including 
+articles falling under tax 
+rate of 0% and Invoice 
+may be called as 'tax 
+invoice cum bill of 
+supply' in case of 0% 
+supply, hence to 
+separate 
+documentation. 
+c) In case of counter 
+supply, 3 copies of 
+invoices are not 
+required. 
+d) Inclusion of HSN 
+codes in B2C invoice 
+shall be reviewed by the 
+panel at a later stage. 
+ 
+
+ 
+ 
+ 
+5. Current GST law requires issuance of 3 copies 
+of invoices, Original, For Transporter and For 
+Seller. This has no relevance for retail sales 
+invoices. 
+ 
+ 
+ 
+ 
+II. 
+ 
+Transition 
+Credit 
+Provision for 
+Opening 
+Inventory as on 
+1st July, 2017: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Eligibility of 
+excise duty and 
+CVD credits on 
+inventory lying 
+at retail stores.  
+ 
+ 
+ 
+For inventory in stock as on July 1st, 2017 (referred 
+to as Transition Inventory), a credit of 40% on 
+CGST has been made available. This credit is 
+however only available on goods sold till 31st Dec 
+2017. Given the inventory holding patterns of the 
+industry, it will be very difficult and costly to sell all 
+Transition Inventory by 31st Dec 2017.  
+ 
+Recommendation: In order to compensate the 
+taxes already paid, it is requested that an 
+extension of 6 months (till 30th June 2018) be 
+provided for the above credit on Transition 
+Inventory. 
+ 
+ 
+ 
+ 
+ 
+For the retail business, mostly procurement is done 
+at the centralized warehouse, even for imports BOE 
+is filed for centralized warehouse and similarly for 
+domestic procurements also the excise documents 
+are addressed at central warehouse. The stock is 
+generally moved on stock transfer basis (warehouse 
+to retail stress) to various retail stores. Hence the 
+duty paying documents are available in the name of 
+the organization however it may not be addressed 
+for the location where the inventory is available.  
+ 
+Recommendation: It is recommended to clarify 
+that the document in the name of organization / 
+legal entity is sufficient for credits u/s 140(3). 
+ 
+ 
+For extension of 6 
+months, ADG shall take 
+it up in the next 
+meeting of the GST 
+panel to be held on 
+24th Sep.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ADG in principle agreed 
+for Excise and CVD 
+credit for Retail industry 
+basis document in the 
+name of Legal Entity is 
+sufficient and put up 
+the case for 
+consideration. 
+ 
+
+ 
+ 
+ 
+ 
+III. 
+ 
+Submission of 
+C-Forms on 
+inter-state 
+sales made 
+prior to 1st July, 
+2017: 
+ 
+ 
+C-Forms for inter-state sales done prior to July 1st 
+2017, are to be submitted latest by 30th Sep 2017. 
+This is a daunting task given all resources of the 
+industry are stretched in ensuring a smooth roll-
+out the GST and increasing the compliance 
+therein. 
+Recommendation: It is requested that the time 
+for submission of C-Forms be extended till 31st 
+March, 2018. 
+ 
+ 
+ 
+ADG shall formally 
+recommend this to the 
+council. As this is a State 
+matter, he suggested 
+that Industry shall write 
+to respective State 
+Govts. and also send 
+this to empowered 
+Committee of Finance 
+Minister 
+ 
+IV. 
+ 
+Clarity on the 
+rate for 
+Tailoring as a 
+job work 
+ 
+As per job work definition-Section 2(68) of CGST 
+Act, if the end-customer of job work is registered, 
+the tax rate will be 5% and if not, then the rate will 
+be 18%. This would imply that approximately 1 
+lakh tailors across the country would have to start 
+paying a tax of 18%. This could drive many of these 
+small entrepreneurs out of business and also result 
+in price inflation for their end-customers (mostly 
+lower to middle-income masses in tier3-5 
+catchments of the country). 
+ 
+Recommendation: The stitching of garments for 
+end-users by tailors should be considered a job 
+work activity and should therefore invite a rate of 
+5% GST. This should result in a significant increase 
+in compliance as well. 
+ 
+ 
+ADG shall put this forth 
+in the next meeting 24th 
+Sep to incorporate '5% 
+tax rate for job work 
+including Tailoring 
+service whether 
+registered or not' 
+ 
+V. 
+ 
+Clarity on Input 
+GST write off 
+on Head Office 
+Cost cross 
+charged to 
+Stores in 
+different states 
+ 
+Most of the large retail organisations have Head 
+Office which provide common services to branch / 
+stores located within the same state of Head 
+Office and Other States. As per GST Law, Head 
+Office Cost is to be cross charged @ Cost + 10% 
+basis to branch / store locations in other states 
+who receives such services from Head Office. GST  
+ 
+ 
+This is an industry issue, 
+and is a big problem. 
+Panel may come out 
+with formulation over 
+time. 
+
+ 
+ 
+ 
+law provides that input GST is to be reversed / 
+utilised as per taxable ratio of the respective state 
+gst registration.  
+There is no clarity in the law on whether input gst 
+credit of Head Office state for the cost, cross 
+charged to other branch / store states has to be 
+adjusted on one to one basis against Head Office 
+state output gst liability of cross charge or to be 
+reversed in the Head Office state as per taxable 
+ratio of that state. If so, then it may result in 
+double reversal as again GST on cross charge from 
+head office location becomes input gst credit for 
+interstate branch / store locations and it again 
+need to be reversed as per taxable ratio of that 
+branch / store state.  
+Recommendation : To avoid double reversal of 
+input gst of Head Office Cost, once at Head office 
+state and again in branch / store location of 
+different state where it is cross charged by Head 
+office state, it should be clarified that input GST 
+for Head Office Cost cross charged to branch / 
+store locations in other states to be adjusted in 
+Head office state on one to one basis and only 
+balance input GST in Head office state i.e. 
+pertaining to Head Office Cost for branch / stores 
+located within Head office state and not cross 
+charged only to be reversed in Head Office 
+State.Further, input GST of store locations / 
+statewhere Head Office Cost cross charged should 
+be reversed in the taxable ratio of that state. 
+ 
+ 
+VI. 
+ 
+Clarity in Debit 
+& Credit Note 
+  
+In the Credit Note / Debit Note process currently 
+configured in GST, one Credit note/debit note can 
+be raised with ONLY one Invoice Reference which 
+will make the entire process of debit/credit note 
+ 
+ 
+ADG agreed to the issue 
+and suggested the 
+Industry to give solution 
+/ suggestion on how to 
+
+ 
+ 
+ 
+ administratively complex for B2B enterprises. This 
+is true for both sales returns to suppliers/brands 
+and also especially in our industry, for price offs/ 
+schemes/discounts covering a particular period 
+which could range from one month to a quarter or 
+longer period.   
+Recommendation: Instead, we need an option to 
+incorporate multiple invoices in the Debit/Credit 
+note or give one invoice reference out of the list 
+of all applicable invoices. 
+ 
+incorporate in the 
+existing GST framework. 
+ 
+ 
+VII.  
+ 
+ITC reversal in 
+case of capital 
+goods 
+(CGST 
+rule 43) 
+ 
+ 
+Rule 43 prescribes manner of determination of 
+input tax credit in respect of capital goods and 
+reversal of proportionate credit thereof every 
+month in the exempted turnover ratio of each of 
+next 60 months along with interest thereon. This 
+prescribed method is very complicated and would 
+increase administrative work of retailers. 
+Recommendation : Following options are 
+suggested: 
+1. ITC need to be reversed annually instead of 
+monthly ITC reversal and without any interest. 
+This is similar to rule prevailing in Service Tax 
+Regime. It is proposed that ITC reversal to be 
+done based on previous year turnover instead 
+of current month turnover and final reversal 
+will be done after financial year end based on 
+current year turnover without any interest 
+provided the reversal is done within specified 
+time. 
+2. In case of monthly reversal to be kept  
+unchanged, Interest as mentioned u/r 43 
+needs to payable only when registered person 
+fails to pay/ reverse ITC as per rule 43 by due 
+ 
+More of compliance 
+issue as far as GST panel 
+is concerned. Will look 
+into the interest rate or 
+propose solution like 
+pre GST era. 
+
+ 
+ 
+ date as mentioned u/r 43 and no interest payable 
+if amount paid/ ITC reversed as per rule 43. 
+ 
+ 
+ 
+VIII. 
+ 
+Credit for 
+Deemed 
+Exports 
+(Domestic 
+supply for 
+Export) 
+ 
+ 
+Fabric manufacturers were entitled to export 
+benefits via the deemed credit policy. However, 
+post GST this facility is withdrawn vide Trade 
+notice no. 11 dated 30th Jun 2017. This will imply 
+that suppliers of fabrics for exports will be unable 
+to avail of these benefits. This is likely to result in 
+inflation in raw material prices and could adversely 
+affect the competitiveness of garment exporters. 
+Recommendation: It is requested that the above 
+provisions under the Trade notice No. 11 dated 
+30th Jun 2017 be withdrawn. 
+ 
+ 
+ 
+Shortly, GST panel will 
+notify list of deemed 
+exports. 
+ 
+ 
+IX.  
+ 
+GST credit on 
+FOC supplies 
+for export 
+business 
+ 
+Textile/Garment orders are obtained after sending 
+multi-colour/style 
+products 
+to 
+international 
+buyers. 
+Further, 
+pre-production 
+and 
+post-
+production samples have to be submitted before 
+the actual bulk shipment. On an average these 
+activities are about 12% of bulk order shipped.  As 
+per the new policy, on such free samples, the 
+exporter/manufacturer will not be able to claim 
+GST credit on inputs used and also on exports 
+made. 
+ 
+ 
+ 
+Recommendation: It is requested that supplies of 
+FOC shipments be exempted from GST for 
+fabric/garment and input credit on these be 
+eligible for cash refund. 
+ 
+ 
+ADG acknowledges the 
+issue and contemplating 
+to allow certain% of 
+FOB value of sampling 
+as input credit. Once 
+Export sampling is 
+accepted for GST Credit, 
+domestic sampling GST 
+Credit may also be 
+discussed. 
+ 
+ 
+ 
+ 
+X. 
+ 
+Payment of 
+IGST under 
+Post GST, EPCG Authorisation is available only for 
+basic duty and IGST paid is to be credited only 
+through the GST mechanism. Since the capital 
+ADG stated that Govt is 
+working on this to 
+ensure no cash block for 
+
+ 
+ 
+EPCG 
+Authorisation 
+ 
+investment for setting up big plants is significant, 
+the above arrangement will have an adverse 
+impact on investments and working capital 
+requirements for such projects. 
+Recommendation: It is requested that all import 
+duties including IGST be allowed for debit under 
+the EPCG scheme. 
+ 
+the industry. This 
+provision shall also 
+apply to import of 
+materials for export 
+purpose to avoid any 
+working capital block. 
+ 
+ 
+XI. 
+ 
+Credit of the 
+civil work for 
+new stores / 
+stores 
+modification  
+ 
+ 
+The retail industry is mostly B2C and heavy 
+investment is made on new stores and continuous 
+modification, renovation and modernization of the 
+stores. The major cost of the same is on account of 
+civil work. As per the current GST law, the credit of 
+the same is not allowed which is not justifiable.  
+ 
+ 
+Recommendation: To amend the law to allow 
+the credit of the civil works also wherever the 
+property is directly used for business purposes. 
+  
+ 
+ 
+ 
+ADG suggested the 
+Industry to submit a 
+separate representation 
+seeking clarification on 
+whether GTS credit on 
+interior / or civil work 
+done on the bare shell 
+real estate / property 
+for maintaining store  
+ 
+ 
+identity or ambiance 
+would be allowed as 
+this is purely business 
+expenses / investment. 
+ 
+ 
+XII.  
+ 
+Simplification 
+of the GST 
+returns  
+ 
+ 
+ The GST returns is very complicated and needs 
+various information.  
+Recommendation 
+1.      HSN wise summary may be dispensed with 
+as all information is already available in GST 
+returns. 
+2.      Invoice summary may be dispensed with as 
+retail industry bills from numerous POS machines 
+ 
+Only the panel will work 
+out for July returns as 
+the preview wasn't 
+available for July. So 
+GST panel will come out 
+with the resolution for 
+July month.  
+ 
+August onwards no 
+modification. If industry 
+wants modification, 
+Commissioner 
+
+ 
+ 
+and each machine has different series of 
+numbers and the volume of data becomes 
+humungous to report.   
+ 
+suggested the 
+delegation to submit a 
+separate letter and give 
+examples with format. 
+ 
+XIII. 
+ 
+E way bills 
+ 
+ 
+To defer the implementation till next financial 
+year and allow the other processes to be 
+streamlined. 
+ 
+ 
+E way bills is being 
+pursued by the State 
+Govts. Till the time 
+electronic system is in 
+place, Govt. won't 
+introduce e way bills. 
+Hardware shall be in 
+place by Dec 31 this 
+year. 
+ 
+ 
+ 
+XIV.  
+ 
+ 
+Reversal of 
+credits for food 
+and grocery 
+business 
+ 
+As per the current law, the services credit as well 
+as capital goods credit needs to reversed to the 
+extent of zero rate / exempt GST sales. The 
+Retailers in the food and grocery suffer huge 
+rentals and other costs and credit reversal is an 
+additional cost burden. This relaxation may be 
+considered for the sector. 
+ 
+ 
+ 
+ 
+No solution to it from 
+Govt, industry will have 
+to give solution. On 
+shrinkage/storage 
+loss/perishable 
+products, standard loss 
+occurs during course of 
+business. Commissioner 
+suggested the Industry 
+to submit a separate 
+representation to avail 
+credit on this, with 
+justification.  
+ 
+ 
+ 

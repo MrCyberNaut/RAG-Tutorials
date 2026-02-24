@@ -1,0 +1,1593 @@
+ISO/IEC JTC1/SC2/WG2/N2740 
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 1 of 41 
+ISO/IEC JTC 1/SC 2/WG 2 
+PROPOSAL SUMMARY FORM TO ACCOMPANY SUBMISSIONS 
+FOR ADDITIONS TO THE REPERTOIRE OF ISO/IEC 106461 
+Please fill all the sections A, B and C below. 
+Please read Principles and Procedures Document (P & P) from http://www.dkuug.dk/JTC1/SC2/WG2/docs/principles.html  for 
+guidelines and details before filling this form. 
+Please ensure you are using the latest Form from http://www.dkuug.dk/JTC1/SC2/WG2/docs/summaryform.html. 
+See also http://www.dkuug.dk/JTC1/SC2/WG2/docs/roadmaps.html  for latest Roadmaps. 
+A. Administrative 
+1. Title: 
+Proposal to add additional phonetic characters to the UCS 
+ 
+2. Requester's name: 
+INCITS/L2, UTC, SIL International 
+ 
+3. Requester type (Member body/Liaison/Individual contribution): 
+member body (L2), liaison (UTC), expert (SIL) 
+ 
+4. Submission date: 
+2004-4-19 
+ 
+5. Requester's reference (if applicable): 
+L2/04-044, L2/04-045, L2/04-046, L2/04-047 
+ 
+6. Choose one of the following: 
+ 
+ 
+This is a complete proposal: 
+yes 
+ 
+or, 
+More information will be provided later: 
+ 
+ 
+B. Technical – General 
+1. Choose one of the following: 
+ 
+ 
+ 
+a. This proposal is for a new script (set of characters): 
+No 
+ 
+ 
+ 
+Proposed name of script: 
+ 
+ 
+ 
+b. The proposal is for addition of character(s) to an existing block: 
+Yes (partially) 
+ 
+ 
+ 
+Name of the existing block: 
+Eight characters are to be allocated to two existing blocks: Latin  
+ 
+ 
+Extended-B and Phonetic Extensions. One character is to be allocated to a block approved by  
+ 
+ 
+WG2 for addition in Amendment 1: Combining Diacritical Marks Supplement. Sixty-four  
+ 
+ 
+characters are to be allocated to a new blocks; the proposed new block is: Phonetic Extensions 
+ 
+ 
+Supplement (1D80–1DBF). 
+ 
+2. Number of characters in proposal: 
+73 
+ 
+3. Proposed category (select one from below - see section 2.2 of P&P document): 
+ 
+ 
+   A-Contemporary 
+X 
+B.1-Specialized (small collection) 
+ 
+B.2-Specialized (large collection) 
+ 
+ 
+   C-Major extinct 
+ 
+D-Attested extinct 
+ 
+E-Minor extinct 
+ 
+ 
+   F-Archaic Hieroglyphic or Ideographic 
+ 
+ 
+G-Obscure or questionable usage symbols 
+ 
+ 
+4. Proposed Level of Implementation (1, 2 or 3) (see Annex K in P&P document): 
+3 
+ 
+ 
+Is a rationale provided for the choice? 
+Yes 
+ 
+ 
+ 
+If Yes, reference: 
+proposal includes one combining mark 
+ 
+5. Is a repertoire including character names provided? 
+Yes 
+ 
+ 
+a. If YES, are the names in accordance with the “character naming guidelines” 
+  
+ 
+ in Annex L of P&P document? 
+Yes 
+ 
+ 
+b. Are the character shapes attached in a legible form suitable for review? 
+Yes 
+ 
+6. Who will provide the appropriate computerized font (ordered preference: True Type, or PostScript format) for 
+ 
+ 
+publishing the standard? 
+SIL International 
+ 
+ 
+If available now, identify source(s) for the font (include address, e-mail, ftp-site, etc.) and indicate the tools  
+ 
+used: 
+TrueType font is currently available from SIL International (http://scripts.sil.org/) 
+ 
+7. References: 
+ 
+ 
+ 
+a. Are references (to other character sets, dictionaries, descriptive texts etc.) provided? 
+Yes 
+ 
+ 
+b. Are published examples of use (such as samples from newspapers, magazines, or other sources) 
+ 
+ 
+ 
+of proposed characters attached? 
+Yes 
+ 
+8. Special encoding issues: 
+ 
+ 
+ 
+Does the proposal address other aspects of character data processing (if applicable) such as input, 
+ 
+ 
+presentation, sorting, searching, indexing, transliteration etc. (if yes please enclose information)? 
+ 
+ 
+Yes: suggested character properties are included (see § D.3) 
+ 
+9. Additional Information: 
+Submitters are invited to provide any additional information about Properties of the proposed Character(s) or Script that will assist in correct 
+understanding of and correct linguistic processing of the proposed character(s) or script.  Examples of such properties are: Casing 
+information, Numeric information, Currency information, Display behaviour information such as line breaks, widths etc., Combining behaviour, 
+                                                     
+1 Form number: N2652-F (Original 1994-10-14; Revised 1995-01, 1995-04, 1996-04, 1996-08, 1999-03, 2001-05, 2001-09, 2003-11) 
+L2/04-132
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 2 of 41 
+Spacing behaviour, Directional behaviour, Default Collation behaviour, relevance in Mark Up contexts, Compatibility equivalence and other 
+Unicode normalization related information.  See the Unicode standard at http://www.unicode.org for such information on other scripts.  Also 
+see http://www.unicode.org/Public/UNIDATA/UCD.html and associated Unicode Technical Reports for information needed for consideration 
+by the Unicode Technical Committee for inclusion in the Unicode Standard. 
+ 
+C. Technical - Justification  
+1. Has this proposal for addition of character(s) been submitted before? 
+Not to WG2 
+ 
+ 
+If YES explain 
+proposal has been submitted to and approved by UTC; first submission to WG2 
+ 
+2. Has contact been made to members of the user community (for example: National Body, 
+  
+user groups of the script or characters, other experts, etc.)? 
+Yes 
+ 
+ 
+ 
+If YES, with whom? 
+linguists 
+ 
+ 
+ 
+If YES, available relevant documents: 
+see samples in § E and references in § F 
+ 
+3. Information on the user community for the proposed characters (for example:  
+  
+size, demographics, information technology use, or publishing use) is included? 
+Yes 
+ 
+ 
+Reference: 
+linguists, from several sub-disciplines (see discussion in § E and references in § F) 
+ 
+4. The context of use for the proposed characters (type of use; common or rare) 
+Characters are used in linguistic  
+ 
+descriptions (books, journal publications, etc.), dictionaries and similar linguistic documents. Some of the  
+ 
+ 
+characters are used in many parts of the world; others are associated with particular regions of the world. 
+ 
+ 
+Reference: 
+see discussion in § E and references in § F 
+ 
+5. Are the proposed characters in current use by the user community? 
+yes 
+ 
+ 
+If YES, where?  Reference: 
+throughout the world; some are more common in some regions (see § E) 
+ 
+6. After giving due considerations to the principles in the P&P document must the proposed characters be entirely  
+ 
+ 
+in the BMP? 
+preferably, yes  
+ 
+ 
+If YES, is a rationale provided? 
+yes 
+ 
+ 
+ 
+ 
+If YES, reference: 
+living characters; if possible, should be kept with other phonetic  
+ 
+ 
+symbols in the BMP 
+ 
+7. Should the proposed characters be kept together in a contiguous range (rather than being scattered)? 
+not req’d  
+8. Can any of the proposed characters be considered a presentation form of an existing  
+  
+character or character sequence? 
+no 
+ 
+ 
+ 
+If YES, is a rationale for its inclusion provided? 
+n/a 
+ 
+ 
+ 
+ 
+If YES, reference: 
+n/a 
+ 
+9. Can any of the proposed characters be encoded using a composed character sequence of either  
+ 
+ 
+existing characters or other proposed characters? 
+possibly 
+ 
+ 
+ 
+If YES, is a rationale for its inclusion provided? 
+yes 
+ 
+ 
+ 
+ 
+If YES, reference: 
+encoding as atomic characters is preferable; see discussion in § E.3  
+ 
+and § E.5.1 
+ 
+10. Can any of the proposed character(s) be considered to be similar (in appearance or function) 
+ 
+ 
+ 
+to an existing character? 
+The character LATIN SMALL LETTER C WITH STROKE is similar in  
+ 
+ 
+appearance to U+00A2 CENT SIGN 
+ 
+ 
+ 
+If YES, is a rationale for its inclusion provided? 
+yes 
+ 
+ 
+ 
+ 
+If YES, reference: 
+see discussion in § E.5.1 
+ 
+11. Does the proposal include use of combining characters and/or use of composite sequences? 
+yes 
+ 
+ 
+ 
+If YES, is a rationale for such use provided? 
+yes 
+ 
+ 
+ 
+ 
+If YES, reference: 
+one combining character is proposed; see discussion in § E.5.6 
+ 
+ 
+ 
+Is a list of composite sequences and their corresponding glyph images (graphic symbols) 
+ 
+ 
+ 
+provided? 
+no 
+ 
+ 
+ 
+ 
+If YES, reference: 
+n/a 
+ 
+12. Does the proposal contain characters with any special properties such as  
+  
+control function or similar semantics? 
+no 
+ 
+ 
+ 
+If YES, describe in detail (include attachment if necessary) 
+n/a 
+ 
+13. Does the proposal contain any Ideographic compatibility character(s)? 
+no 
+ 
+ 
+ 
+If YES, is the equivalent corresponding unified ideographic character(s) identified? 
+n/a 
+ 
+ 
+ 
+ 
+If YES, reference: 
+n/a 
+ 
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 3 of 41 
+D. Proposal 
+D.1 Character chart 
+The characters in this proposal have been approved for encoding by UTC, and given tentative 
+code-position assignments in multiple blocks. The relevant columns are shown here, with 
+previously-assigned characters also shown to provide context. The characters proposed here are 
+shown with a yellow highlight: ; characters already approved by WG2 for inclusion in 
+Amendment 1 (M44.1, M44.5) are shown with a green highlight: ; characters already encoded 
+in ISO 10646:2003 and Unicode 4.0 have no highlight.  
+Note that there are apparent gaps left in two of the columns, at U+0237 and U+1D77–U+1D7A. 
+These code positions are intentionally left blank here, and have been tentatively assigned by 
+UTC to other characters that will be presented to WG2 in separate proposals. 
+The character chart is presented on a new page. 
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 4 of 41 
+ 
+ 
+023 
+ 
+1D6 
+1D7 
+1D8 
+1D9 
+1DA 
+1DB
+1DC 
+0 Ȱ  
+ᵠ     
+
+1 ȱ 
+ 
+ᵡ   
+ 
+
+2 Ȳ  
+ᵢ 
+ 
+
+
+ ◌ 
+3 ȳ 
+ 
+ᵣ 
+  
+
+ 
+4 ȴ 
+ 
+ᵤ    
+ 
+ 
+ 
+5 ȵ 
+ 
+ᵥ 
+
+
+ 
+ 
+ 
+6 ȶ 
+ 
+ᵦ    
+ 
+
+ 
+7 
+ 
+ 
+ᵧ 
+ 
+  
+ 
+
+ 
+8   
+ᵨ 
+ 
+ 
+ 
+ 
+ 
+9   
+ᵩ 
+ 
+ 
+ 
+ 
+ 
+A  
+ 
+ᵪ 
+ 
+   
+ 
+ 
+B 
+ 
+ ᵫ     
+ 
+ 
+C 
+ 
+ 
+   
+
+ 
+ 
+D 
+ 
+ 
+   
+
+ 
+ 
+E 
+ 
+ 
+   
+
+
+ 
+F 
+ 
+      
+ 
+ 
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 5 of 41 
+D.2 Names list 
+Latin Extended-B 
+0238 
+LATIN SMALL LETTER DB DIGRAPH 
+0239 
+LATIN SMALL LETTER QP DIGRAPH 
+023A 
+LATIN SMALL LETTER C WITH STROKE 
+Phonetic Extensions 
+1D7B 
+LATIN SMALL CAPITAL LETTER I WITH STROKE 
+1D7C 
+LATIN SMALL LETTER IOTA WITH STROKE 
+1D7D 
+LATIN SMALL LETTER P WITH STROKE 
+1D7E 
+LATIN SMALL CAPITAL LETTER U WITH 
+STROKE 
+1D7F 
+LATIN SMALL LETTER UPSILON WITH STROKE 
+Phonetic Extensions Supplement 
+1D80 
+LATIN SMALL LETTER B WITH PALATAL HOOK 
+1D81 
+LATIN SMALL LETTER D WITH PALATAL HOOK 
+1D82 
+LATIN SMALL LETTER F WITH PALATAL HOOK 
+1D83 
+LATIN SMALL LETTER G WITH PALATAL HOOK 
+1D84 
+LATIN SMALL LETTER K WITH PALATAL HOOK 
+1D85 
+LATIN SMALL LETTER L WITH PALATAL HOOK 
+1D86 
+LATIN SMALL LETTER M WITH PALATAL 
+HOOK 
+1D87 
+LATIN SMALL LETTER N WITH PALATAL HOOK 
+1D88 
+LATIN SMALL LETTER P WITH PALATAL HOOK 
+1D89 
+LATIN SMALL LETTER R WITH PALATAL HOOK 
+1D8A LATIN SMALL LETTER S WITH PALATAL HOOK 
+1D8B 
+LATIN SMALL LETTER ESH WITH PALATAL 
+HOOK 
+1D8C 
+LATIN SMALL LETTER V WITH PALATAL HOOK 
+1D8D 
+LATIN SMALL LETTER X WITH PALATAL HOOK 
+1D8E 
+LATIN SMALL LETTER Z WITH PALATAL HOOK 
+1D8F 
+LATIN SMALL LETTER A WITH RETROFLEX 
+HOOK 
+1D90 
+LATIN SMALL LETTER ALPHA WITH 
+RETROFLEX HOOK 
+1D91 
+LATIN SMALL LETTER D WITH HOOK AND 
+TAIL 
+1D92 
+LATIN SMALL LETTER E WITH RETROFLEX 
+HOOK 
+1D93 
+LATIN SMALL LETTER OPEN E WITH 
+RETROFLEX HOOK 
+1D94 
+LATIN SMALL LETTER REVERSED OPEN E WITH 
+RETROFLEX HOOK 
+1D95 
+LATIN SMALL LETTER SCHWA WITH 
+RETROFLEX HOOK 
+1D96 
+LATIN SMALL LETTER I WITH RETROFLEX 
+HOOK 
+1D97 
+LATIN SMALL LETTER OPEN O WITH 
+RETROFLEX HOOK 
+1D98 
+LATIN SMALL LETTER ESH WITH RETROFLEX 
+HOOK 
+1D99 
+LATIN SMALL LETTER U WITH RETROFLEX 
+HOOK 
+1D9A LATIN SMALL LETTER EZH WITH RETROFLEX 
+HOOK 
+1D9B 
+MODIFIER LETTER SMALL TURNED ALPHA 
+≈ <super> 0252 
+1D9C 
+MODIFIER LETTER SMALL C 
+≈ <super> 0063 
+1D9D 
+MODIFIER LETTER SMALL C WITH CURL 
+≈ <super> 0255 
+1D9E 
+MODIFIER LETTER SMALL ETH 
+≈ <super> 00F0 
+1D9F 
+MODIFIER LETTER SMALL REVERSED OPEN E 
+≈ <super> 025C 
+1DA0 MODIFIER LETTER SMALL F 
+≈ <super> 0066 
+1DA1 MODIFIER LETTER SMALL DOTLESS J WITH 
+STROKE 
+≈ <super> 025F 
+1DA2 MODIFIER LETTER SMALL SCRIPT G 
+≈ <super> 0261 
+1DA3 MODIFIER LETTER SMALL TURNED H 
+≈ <super> 0265 
+1DA4 MODIFIER LETTER SMALL I WITH STROKE 
+≈ <super> 0268 
+1DA5 MODIFIER LETTER SMALL IOTA 
+≈ <super> 0269 
+1DA6 MODIFIER LETTER SMALL CAPITAL I 
+≈ <super> 026A 
+1DA7 MODIFIER LETTER SMALL CAPITAL I WITH 
+STROKE 
+≈ <super> 1D7B 
+1DA8 MODIFIER LETTER SMALL J WITH CROSSED-
+TAIL 
+≈ <super> 029D 
+1DA9 MODIFIER LETTER SMALL L WITH RETROFLEX 
+HOOK 
+≈ <super> 026D 
+1DAA MODIFIER LETTER SMALL L WITH PALATAL 
+HOOK 
+≈ <super> ID85 
+1DAB MODIFIER LETTER SMALL CAPITAL L 
+≈ <super> 029F 
+1DAC MODIFIER LETTER SMALL M WITH HOOK 
+≈ <super> 0271 
+1DAD MODIFIER LETTER SMALL TURNED M WITH 
+LONG LEG 
+≈ <super> 0270 
+1DAE MODIFIER LETTER SMALL N WITH LEFT HOOK 
+≈ <super> 0272 
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 6 of 41 
+1DAF MODIFIER LETTER SMALL N WITH RETROFLEX 
+HOOK 
+≈ <super> 0273 
+1DB0 
+MODIFIER LETTER SMALL CAPITAL N 
+≈ <super> 0274 
+1DB1 
+MODIFIER LETTER SMALL BARRED O 
+≈ <super> 0275 
+1DB2 
+MODIFIER LETTER SMALL PHI 
+≈ <super> 0278 
+1DB3 
+MODIFIER LETTER SMALL S WITH HOOK 
+≈ <super> 0282 
+1DB4 
+MODIFIER LETTER SMALL ESH 
+≈ <super> 0283 
+1DB5 
+MODIFIER LETTER SMALL T WITH PALATAL 
+HOOK 
+≈ <super> 01AB 
+1DB6 
+MODIFIER LETTER SMALL U BAR 
+≈ <super> 0289 
+1DB7 
+MODIFIER LETTER SMALL UPSILON 
+≈ <super> 028A 
+1DB8 
+MODIFIER LETTER SMALL CAPITAL U 
+≈ <super> 1D1C 
+1DB9 
+MODIFIER LETTER SMALL V WITH HOOK 
+≈ <super> 028B 
+1DBA MODIFIER LETTER SMALL TURNED V 
+≈ <super> 028C 
+1DBB 
+MODIFIER LETTER SMALL Z 
+≈ <super> 007A 
+1DBC MODIFIER LETTER SMALL Z WITH RETROFLEX 
+HOOK 
+≈ <super> 0290 
+1DBD MODIFIER LETTER SMALL Z WITH CURL 
+≈ <super> 0291 
+1DBE 
+MODIFIER LETTER SMALL EZH 
+≈ <super> 0292 
+1DBF 
+MODIFIER LETTER SMALL THETA 
+≈ <super> 03B8 
+Combining Diacritical Marks Supplement 
+1DC2 
+COMBINING SNAKE BELOW 
+ 
+D.3 Unicode character properties 
+Character properties for the proposed characters should be as follows: 
+• 
+U+0238–U+023A, U+1D7B–U+1D9A: All of these characters should have a general 
+category of Ll; no case mapping for these characters is proposed. Other properties 
+should match those of similar characters (e.g. U+0061 LATIN SMALL LETTER A). 
+• 
+U+1D9B–U+1DBF: All of the proposed characters should have a general category of Lm. 
+Compatibility decompositions should be as shown above. Other properties should 
+match those of similar characters, such as U+02E1 MODIFIER LETTER SMALL L. 
+• 
+U+1DC2: This character should have a general category of Mn, and a canonical 
+combining class of 230. Other properties should match those of similar characters, such 
+as U+0323 COMBINING DOT BELOW. 
+E. Other information 
+Supporting information for the proposed characters is presented below, organized according to 
+the following broad categories of characters: 
+• 
+phonetic symbols with palatal hook: U+1D80–U+1D8F 
+• 
+phonetic symbols with retroflex hook: U+1D8F–U+1D9A 
+• 
+phonetic modifier letters: U+1D9B–U+1DBF 
+• 
+other phonetic symbols: U+0238–U+023A, U+1D7B–U+1D7F, U+1DC2 
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 7 of 41 
+E.1 Phonetic symbols with palatal hook 
+E.1.1 
+Background: transcription conventions for palatalization 
+In phonetic transcription, consonant letters with palatal hook are generally used to represent 
+consonant phonemes with palatalized articulation. Since 1989, the representation recommended 
+by the International Phonetic Association has been to use superscript j; that is, the UCS 
+character U+02B2 MODIFIER LETTER SMALL J.  
+Prior to 1989, however, IPA practice allowed for the use of palatal hook on consonant symbols. 
+The older representation is still documented in the IPA Handbook (IPA 1999),2 and is often 
+referred to in general books on phonetics. 
+Figure 1. From IPA (1949), p. 13. 
+Figure 2. From Catford (1988), p. 222. 
+Within the linguistics tradition for study of the Russian language, use of characters with palatal 
+hook has been common practice. 
+Figure 3. Consonants with palatal hook used for Russian (Boyanus and Jopson 1939, p. xxv). 
+                                                     
+2  Characters with palatal hook are not, in fact, used in that publication, however. 
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 8 of 41 
+Figure 4. Consonants with palatal hook used for Russian (Jones and Ward 1969, p. 82). 
+Characters with palatal hooks have been used in relation to other languages as well, however: 
+Figure 5. Examples of characters with palatal hook used in relation to Australian languages (Evans 1995, p. 744). 
+Figure 6. Examples of characters with palatal hook used in relation to African languages (Tucker 1971, p. 648). 
+It is in relation to Russian that the widest selection of symbols with palatal hook is used, 
+however, and the inventory proposed here is based on the requirements for Russian. An 
+inspection of a reasonably representative sampling of the linguistics literature suggests that this 
+may be a complete inventory of required palatal-hook characters: apart from the characters 
+proposed here and those already encoded in the UCS (e.g. U+01AB LATIN SMALL LETTER T 
+WITH PALATAL HOOK), no clear attestation of any other phonetic symbols using palatal hook 
+has been found. There is a pair of marginal cases, c and ezh, for which use of palatal-hook forms 
+has not been clearly attested, but for which evidence indicates a need to encode palatal-hook 
+forms may possibly arise in the future; these will be described below. Beyond these, however, 
+no additional candidates for palatal-hook forms are currently known. 
+Various authors have used typographic approximations for palatal hook when the selection of 
+type available to them has not been extensive enough. This can be seen in Figure 6, above, in 
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 9 of 41 
+which a comma is used; others have used a cedilla: 
+Figure 7. Cedilla as typographic approximation of palatal hook (Clark 1983, p. xx). 
+One other convention used by Slavicists is to indicate palatalization using a modifier letter 
+apostrophe; e.g., /tʼ/. A sample following this convention can be seen in Figure 12, below. 
+The fact that approximations such as comma are used as a fallback when adequate type is not 
+available can be seen in cases where conventions are mixed:  
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 10 of 41 
+Figure 8. Comma as fallback approximation of palatal hook (Wade 2000, pp. 3–4). 
+In Figure 8, the use of true palatal-hook characters for the Russian palatalized consonants in all 
+cases but ɡ and v demonstrate clearly that this was the author’s preferred practice for 
+representing palatalization. And it is clear from other examples involving Russian (see, for 
+instance, Figure 7) that ɡ-comma and v-comma are intended to represent palatalized 
+consonants. We can only conclude that the author did not use palatal-hook typeforms in these 
+two cases because they were not available to him. 
+E.1.2 
+Inventory of proposed palatal-hook characters 
+The inventory of proposed characters corresponds to palatalized consonant phones of Russian. 
+The most commonly-encountered palatal-hook symbols can be seen in the sample from Jones 
+and Ward (1969) shown in Figure 9: 
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 11 of 41 
+Figure 9. Russian palatalized consonant phonemes (Jones and Ward 1969, p. 299). 
+This set of thirteen characters with palatal hook is consistently corroborated by several authors. 
+(Note that one of these, t-palatal hook, is already encoded in the UCS. Hence, this accounts for 
+twelve of the fifteen palatal-hook characters proposed.)  
+Other sources use additional characters with palatal hook in order to transcribe phonetic surface 
+forms in Russian. Thus, the occurrence of palatal-hooked variants for ɡ, esh, and x in Figure 11 
+below; the ɡ-palatal hook can also be seen in Figure 4 above, and the x-palatal hook is also seen 
+in Figure 10: 
+Figure 10. Character x with palatal used for Russian (IPA 1949, p. 14). 
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 12 of 41 
+Figure 11. Palatal-hook characters used for Russian (Boyanus and Jopson 1939, p. xxiv). 
+The inventory from Boyanus and Jopson (1939) in Figure 11 with the exception of esh-palatal 
+hook is corroborated by Ward (1966), by Clark (1983) (see Figure 7) and by Dawson et al (1964). 
+This inventory is also corroborated by Wade (2000) (see Figure 8), though that author uses the 
+IPA symbol esh-curl (U+0286) rather than esh-palatal hook. 
+E.1.3 
+Marginal cases: c, ezh 
+Some descriptions of Russian also make reference to palatalized post-alveolar voiced fricative 
+and voiceless affricate, as shown in Figure 12:  
+Figure 12. Russian palatalized consonants, including post-alveolar fricatives and affricate (Halle 1994, p. 42). 
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 13 of 41 
+Note that, in the chart in Figure 12, the author presents a complete inventory of palatalized 
+consonants but is using the alternate convention of indicating palatalization by means of a 
+modifier letter apostrophe, mentioned above. Also, this author is using the hacek diacritic to 
+represent post-alveolar sounds: š, ž and č rather than ʃ, ʒ and ʧ. Thus, the palatalized post-
+alveolar voiced fricative and voiceless affricate are represented as žʼ and čʼ respectively. These 
+phones are also attested using the comma representation described above: 
+Figure 13. Comma used as typographic approximation of palatal hook (Halle 1971, p. 52). 
+Again, it appears that, in such situations, the author has used a comma approximation of 
+palatal-hook forms simply because adequate type that included characters with palatal hooks 
+was not available.  
+The implication of this is that, were the type available, the author might have used c-palatal 
+hook “” to represent the palatalized post-alveolar voiceless affricate. Also, with an author that 
+used ezh rather than z-hacek for the voiced post-alveolar affricate, it seems possible that ezh-
+palatal hook “” might have been used to represent the palatalized variant of that sound. 
+Potential use of c-palatal hook is also suggested from the following sample from Africanist 
+literature, in which c-comma is used for a palatalized consonant (Figure 6, repeated here for 
+convenience as Figure 14): 
+Figure 14. C-comma used as typographic approximation for c-palatal hook (Tucker 1971, p. 648). 
+In this work, the author is presenting various representations for phones of sub-Saharan 
+languages. The second column of his table is labeled “I.P.A.”, and his practice in other cases of 
+palatalized consonants is to use a palatal-hook form, as seen here in the case of z-palatal hook. 
+Thus, it appears that c-comma is being used due to a lack of type for c-palatal hook. 
+Therefore, in addition to those characters proposed here, there is evidence that suggests the 
+possibility of eventually needing to represent c-palatal hook “” and z-palatal hook “” in the 
+UCS. In the samples shown, however, various alternate representation conventions were used, 
+and not the palatal-hook variants of c and z. In the absence of clear attestation for these 
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 14 of 41 
+characters, therefore, they are not included in this proposal. They are documented here, 
+however, to show what the full extent of required palatal-hook characters might eventually be. 
+E.2 Phonetic symbols with retroflex hook 
+Twelve of the proposed characters are symbols with retroflex hook. In phonetic transcription, 
+the retroflex hook is used with vowel symbols and also with consonant symbols, but with 
+slightly different functions, and with differences in usage and attestation. These two categories 
+are discussed separately. 
+E.2.1 
+Vowel symbols with retroflex hook 
+Nine of the proposed characters are vowel symbols modified with retroflex hook. 
+In phonetic transcription, vowel symbols with retroflex hook are generally used to represent 
+vowel phones with rhoticity (“r-colouring”). Since 1989, the representation recommended by 
+the International Phonetic Association has been to use the rhotic hook; that is, the UCS 
+characters U+025A LATIN SMALL LETTER SCHWA WITH HOOK and U+025D LATIN 
+SMALL LETTER REVERSED OPEN E WITH HOOK, and otherwise a character sequence of a 
+vowel sign followed by U+02DE MODIFIER LETTER RHOTIC HOOK. 
+Prior to 1989, however, IPA practice was to use a retroflex hook on vowel symbols. The older 
+representation is still cited in the IPA Handbook (IPA 1999): 
+Figure 15. Samples of symbols with retroflex hook: IPA (1999), p. 173. 
+Vowel symbols with retroflex hook are still occasionally used by linguists in current 
+publications, as seen in Figure 16: 
+Figure 16. Latin small i with retroflex hook: Evans (1995), p. 740. 
+Current publications may also use these characters for purposes of citing historic practice, as 
+illustrated in Figure 15. 
+Insofar as the current IPA recommendation is to use rhotic hook, it is suggested that the 
+NamesList.txt file in the Unicode Character Database include an annotation to that effect. 
+The inventory of characters for vowel symbols proposed is that which was approved by the 
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 15 of 41 
+International Phonetic Association in 1946, as shown in the following figures: 
+ Figure 17. IPA vowel symbols with retroflex hook: IPA (1946), p. 16. 
+Figure 18. IPA vowel symbols with retroflex hook: IPA (1946), p. 16. 
+An inspection of a reasonably representative sampling of the linguistics literature suggests that 
+this is a complete inventory: apart from the characters proposed here, no other phonetic vowel 
+symbols using retroflex hook have been encountered, except for the lone instance of inverted 
+small-capital r with retroflex hook shown in Figure 15, which is considered here to be 
+anomalous. 
+E.2.2 
+Consonant symbols with retroflex hook 
+Three of the proposed characters are consonant symbols modified with retroflex hook. 
+The character LATIN SMALL LETTER D WITH HOOK AND TAIL is used to represent a 
+voiced retroflex implosive stop. It is not explicitly IPA-approved, but it is listed in the IPA 
+Handbook (IPA 1999) and is consistent with IPA conventions of using a retroflex hook to 
+indicate retroflexion and a hooked ascending stem to indicate implosive stops (c.f. U+0257 
+LATIN SMALL LETTER D WITH HOOK). This speech sound is rare but is attested in at least 
+the Parkari language (Hoyle 2001). 
+Figure 19. From IPA (1999), p. 179. 
+Figure 20. From Laver (1994), p. 582. 
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 16 of 41 
+Figure 21. From Hoyle (2001), p. 254. 
+The name LATIN SMALL LETTER D WITH HOOK AND TAIL is proposed rather than LATIN 
+SMALL LETTER D WITH HOOK AND RETROFLEX HOOK as the repetition of “hook” in the 
+latter is confusing, and the former provides similarities with the related characters U+0256 
+LATIN SMALL LETTER D WITH TAIL and U+0257 LATIN SMALL LETTER D WITH HOOK. 
+The characters LATIN SMALL LETTER ESH WITH RETROFLEX HOOK “” and LATIN 
+SMALL LETTER EZH WITH RETROFLEX HOOK “” are used to represent retroflex 
+counterparts to the palato-alveolar fricatives esh “ʃ” and ezh “ʒ”. These symbols are not IPA-
+approved, and their appropriateness is questioned by some linguists since the sounds 
+represented by esh and ezh are “usually regarded as having the blade of the tongue raised 
+towards the hard palate,” a gesture that would “preclude tongue tip retroflexion” (Peter 
+Ladefoged, personal communication). Nevertheless, these symbols are, in fact, used by some 
+linguists: 
+Figure 22. From Laver (1994), p. 559. 
+Figure 23. From Laver (1994), p. 560. 
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 17 of 41 
+Figure 24. From Diehl (1995), p. 1. 
+E.3 Representation of symbols with palatal or retroflex hooks as sequences with U+0321, 
+U+0322 
+Question 9 of section C above asks whether any of the characters can be encoded as a character 
+sequence. The proposed characters discussed in § E.1 and § E.2 could possibly be viewed as 
+sequences involving the characters U+0321 COMBINING PALATALIZED HOOK BELOW and 
+U+0322 COMBINING RETROFLEX HOOK BELOW respectively. It is suggested that this would 
+be inappropriate, however, and that encoding using atomic characters is very much to be 
+preferred.  
+While combining marks in general are assumed to be applicable to arbitrary characters in a 
+generative manner, allowing dynamic representation of text elements such as Latin small a with 
+bridge below, there are certain combining marks for which this is not appropriate. In particular, 
+the characters U+0321 COMBINING PALATALIZED HOOK BELOW and U+0322 
+COMBINING RETROFLEX HOOK BELOW should not be used in a productive manner. 
+There simply are only certain base characters that can sensibly be modified with a palatal hook 
+or with a retroflex hook, both in a linguistic sense as well as a typographic sense. For instance, it 
+would be silly for both linguistic and typographic reasons to encode a character sequence 
+< U+01AB LATIN SMALL LETTER T WITH PALATAL HOOK, U+0321 COMBINING 
+PALATALIZED HOOK BELOW >, or a character sequence < U+0290 LATIN SMALL LETTER Z 
+WITH RETROFLEX HOOK, U+0322 COMBINING RETROFLEX HOOK BELOW >. In practice, 
+there are very limited inventory of characters that are used with palatal hook or retroflex-hook 
+modification. 
+Also, whereas it is feasible to create font/rendering implementations that can productively 
+display sequences involving arbitrary base characters followed by a combining mark such as 
+U+0300 COMBINING GRAVE ACCENT using mechanisms such as glyph attachment points, 
+this is not feasible for U+0321 COMBINING PALATALIZED HOOK BELOW or for U+0322 
+COMBINING RETROFLEX HOOK BELOW: the way in which a base character is modified 
+using a palatal or retroflex hook is dependent on the particular base character involved. Font 
+implementations must assume a specific inventory of retroflex-hook forms. 
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 18 of 41 
+Thus, in terms of usage requirements and the realities of implementation, dynamic composition 
+using U+0321 COMBINING PALATALIZED HOOK BELOW and U+0322 COMBINING 
+RETROFLEX HOOK BELOW is not a good choice, and should be avoided. 
+Note that this view is corroborated by existing characters in the UCS itself in that existing 
+characters such as U+01AB LATIN SMALL LETTER T WITH PALATAL HOOK and 
+U+0290 LATIN SMALL LETTER Z WITH RETROFLEX HOOK do not have any decomposition. 
+The combining marks U+0321 COMBINING PALATALIZED HOOK BELOW and U+0322 
+COMBINING RETROFLEX HOOK BELOW are not currently used in any decomposition, even 
+though there are a number of potential candidates for such decompositions existing in the UCS. 
+Therefore, since there are good reasons why productive use of U+0321 COMBINING 
+PALATALIZED HOOK BELOW and U+0322 COMBINING RETROFLEX HOOK BELOW is not 
+recommended, and insofar as existing characters with palatal hook and retroflex hook are not 
+considered presentation forms of existing sequences, it is argued that the characters proposed 
+here are likewise not to be considered presentation forms of existing sequences. 
+E.4 Phonetic modifier letters 
+In general, modifier letters are used in phonetic transcription to represent secondary aspects of 
+articulation. Secondary articulations may involve aspects of simultaneous articulation that are 
+considered to be in some sense less dominant to the basic sound (for instance, nasalized vowels 
+are typically conceived in terms of their oral counterparts but with the additional secondary 
+articulation of nasalization); or they may involve a transitional articulation of a type that might 
+otherwise be considered a complete speech sound in its own right but for various reasons is 
+interpreted by the linguist as a secondary element in a complex speech sound (for instance, 
+diphthongs, or nasal onset of oral stop consonants). In some situations, the recommended 
+transcription using the International Phonetic Alphabet would not involve a modifier letter; 
+thus, many of the proposed characters are not officially-approved IPA notation. Nevertheless, 
+the use of these modifier letters is fairly commonplace among linguists, even those that 
+advocate the use of IPA. 
+The proposed modifier letters include those used in phonetic transcription to represent vowel-
+like sounds, and those used to represent consonantal sounds. These two groups will be 
+discussed separately. 
+E.4.1 
+Vowel modifier letters 
+Vowel modifier letters are often used by linguists in transcribing diphthongs. Diphthongs are 
+speech sounds involving two distinct but sequentially-contiguous vocalic gestures—two vowel 
+targets. For instance, whereas the Spanish phoneme /e/ is typically spoken with a single vowel 
+target, [e], the English phoneme /e/ is very often spoken with two vowel targets, [e] and [i]. 
+Following the conventions of IPA strictly, the English phoneme could be transcribed as [ei] or 
+[e͡i]. Occasionally, though, linguists will transcribe such a diphthong as [eⁱ] or [ᵉi], according to 
+which component is considered to be secondary—an “on-glide” or an “off-glide”:  
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 19 of 41 
+Figure 25. Vowel modifier letters used to indicate “on-glide” or “off-glide” diphthongs (Clark and Yallop 1995, p. 35). 
+Vowel modifier letters are also sometimes used to transcribe syllables that have a marginally-
+vocalic nucleus or a vocalic nucleus of very short duration, such that the vowel component of 
+the syllable seems suppressed in relation to the consonantal components. 
+There are already a number of vowel modifier letters encoded in the UCS. Most of these were 
+added in ISO/IEC 10646-1:2000 AMD2 and Unicode 4.0 and are in the Phonetic Extensions block: 
+1D43 
+ᵃ 
+MODIFIER LETTER SMALL A 
+1D44 
+ᵄ 
+MODIFIER LETTER SMALL TURNED A 
+1D45 
+ᵅ 
+MODIFIER LETTER SMALL ALPHA 
+1D46 
+ᵆ 
+MODIFIER LETTER SMALL TURNED AE 
+1D49 
+ᵉ 
+MODIFIER LETTER SMALL E 
+1D4A 
+ᵊ 
+MODIFIER LETTER SMALL SCHWA 
+1D4B 
+ᵋ 
+MODIFIER LETTER SMALL OPEN E 
+1D4C 
+ᵌ 
+MODIFIER LETTER SMALL TURNED OPEN E 
+1D4E 
+ᵎ 
+MODIFIER LETTER SMALL TURNED I 
+1D52 
+ᵒ 
+MODIFIER LETTER SMALL O 
+1D53 
+ᵓ 
+MODIFIER LETTER SMALL OPEN O 
+1D54 
+ᵔ 
+MODIFIER LETTER SMALL TOP HALF O 
+1D55 
+ᵕ 
+MODIFIER LETTER SMALL BOTTOM HALF O 
+1D58 
+ᵘ 
+MODIFIER LETTER SMALL U 
+1D59 
+ᵙ 
+MODIFIER LETTER SMALL SIDEWAYS U 
+1D5A 
+ᵚ 
+MODIFIER LETTER SMALL TURNED M 
+2071 
+ⁱ 
+SUPERSCRIPT LATIN SMALL LETTER I 
+Table 1. Vowel modifer letters already encoded in the UCS 
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 20 of 41 
+This covers those vowel sounds that are most commonly encountered in the world’s languages. 
+This list does not include all vowel symbols used in phonetic transcription, however. In 
+principle, any vowel gesture may potentially be one of the targets in a diphthong. Ladefoged 
+and Maddieson (1996, p. 322) comment, “The kinds of vowels that occur as targets in 
+diphthongs are no different from those that occur as single vowels.”  
+When combined with modifier letters already encoded in the UCS, the vowel modifier letters 
+proposed here cover most of the vowel symbols from the IPA and Americanist traditions:3  
+Figure 26. IPA vowels (IPA 1999, p. ix). 
+Figure 27. Americanist vowels (Pullum and Ladusaw 1996, p. 298).4 
+                                                     
+3  While IPA is increasingly prevalent, the Americanist tradition is still in use, and the use of superscripts to 
+transcribe diphthongs may be more prevalent among those that use Americanist conventions. Some vowels 
+in the Americanist system use diacritics, but it is assumed that combining marks can be used in sequences 
+with modifier letters as well as with other letters. Capital vowel letters are used by some in the Americanist 
+tradition to transcribe voiceless vocoids, but this proposal does not include modifier-letter counterparts to 
+Latin capital vowel letters. We are not aware at the present time of a user need for capital vowel modifier 
+letters in order to transcribe a voiceless, secondary component of a diphthong using Americanist 
+conventions. 
+4  There is some variation within Americanist usage. Whereas Pullum and Ladusaw show a small capital I for 
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 21 of 41 
+The vowel portion of the overall proposal is summarized in Table 2, which includes an index to 
+samples illustrating each one: 
+Character 
+Samples 
+1D9B 
+ 
+MODIFIER LETTER SMALL TURNED ALPHA 
+Figure 41 
+1D9F 
+ 
+MODIFIER LETTER SMALL REVERSED OPEN E 
+Figure 33 
+1DA4 
+ 
+MODIFIER LETTER SMALL I WITH STROKE 
+Figure 32, Figure 36 
+1DA5 
+ɩ 
+MODIFIER LETTER SMALL IOTA  
+Figure 40 
+1DA6 
+ 
+MODIFIER LETTER SMALL CAPITAL I 
+Figure 33, Figure 39 
+1DA7 
+ 
+MODIFIER LETTER SMALL CAPITAL I WITH STROKE 
+Figure 38 
+1DB1 
+ 
+MODIFIER LETTER SMALL BARRED O 
+Figure 33 
+1DB6 
+ 
+MODIFIER LETTER SMALL U BAR 
+Figure 32 
+1DB7 
+ 
+MODIFIER LETTER SMALL UPSILON 
+Figure 35 
+1DB8 
+ᴜ 
+MODIFIER LETTER SMALL CAPITAL U 
+Figure 40 
+1DBA 
+ 
+MODIFIER LETTER SMALL TURNED V 
+Figure 30, Figure 36 
+Table 2. Proposed vowel modifer letters  
+The following samples serve to illustrate the use of vowel modifier letters in general to 
+transcribe diphthongs, and also to demonstrate attestation of the vowel modifier letters 
+proposed. The samples will contain vowel modifier letters that are already encoded as well as 
+those being proposed; those already encoded will be highlighted in blue; those being proposed, 
+in red. Note that some of these samples show modifier letters with diacritical marks; it is 
+assumed that these diacritical marks can be encoded using combining characters. 
+Figure 28. Vowel modifier letters: a, schwa, u (Czaykowska-Higgins and Willett 1997, p. 408). 
+                                                                                                                                                                          
+the front unrounded lower-high vocoid, many represent this vocoid using small iota. Also, some use a small 
+v with hook for the back round lower-high vocoid, rather than the small capital u shown here. Barred iota 
+and barred v-hook for central lower-high vowels are not used, however. 
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 22 of 41 
+Figure 29. Vowel modifier letter: schwa (Bessell 1998, p. 5). 
+Figure 30. Vowel modifier letter: turned v (Laver 1994, p. 560). 
+Figure 31. Vowel modifier letters: e, open-e, u (Malone 1999, p. 353). 
+Figure 32. Vowel modifier letters: i, i-bar, e, open-e, u, u-bar, o, open-o (Lojenga 1994, p. 90). 
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 23 of 41 
+Figure 33. Vowel modifier letters: o-bar, small capital I, schwa, reversed open e (Laver 1994, p. 559). 
+Figure 34. Vowel modifier letter: open-o (Brink et al 1998, p. 99). 
+Figure 35. Vowel modifier letter: upsilon (Cruttenden 2001, p. 133). 
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 24 of 41 
+Figure 36. Vowel modifier letters: open-e, schwa, i, i-bar, o, u, turned-v,  (Wayland and Allard 2001, p. 76). 
+Figure 37. Vowel modifier letter: schwa (Ladefoged and Maddieson 1996, p. 80). 
+Figure 38. Vowel modifier letter: small capital i-bar (Bailey 1985, p. xxv). 
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 25 of 41 
+Figure 39. Vowel modifier letter: small capital i (Bailey 1985, p. xxvi). 
+Figure 40. Vowel modifier letters: iota, small capital u (Floyd 1981, p. 19). 
+Figure 41. Vowel modifier letter: small turned alpha (Floyd 1981, p. 105). 
+The vowel modifier letters in the following table are those that would be needed to provide 
+complete coverage for IPA and Americanist vowel symbols as shown in Figure 26 and Figure 27 
+but for which attestation has not been found.  
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 26 of 41 
+ 
+MODIFIER LETTER SMALL AE 
+ 
+MODIFIER LETTER SMALL REVERSED E 
+ 
+MODIFIER LETTER SMALL CLOSED REVERSED OPEN E 
+ 
+MODIFIER LETTER SMALL RAMS HORN 
+ 
+MODIFIER LETTER SMALL O WITH STROKE 
+ 
+MODIFIER LETTER SMALL LIGATURE OE 
+ 
+MODIFIER LETTER SMALL CAPITAL OE 
+ 
+MODIFIER LETTER SMALL CAPITAL U WITH STROKE 
+ 
+MODIFIER LETTER SMALL CAPITAL Y 
+Table 3. Vowel modifer letters  not currently proposed for encoding 
+E.4.2 
+Consonant modifier letters 
+Consonant modifier letters are often used to transcribe articulatory modifications that may 
+apply to a wide variety of consonantal sounds, such as aspiration (typically transcribed as [ʰ]) or 
+labialization (typically transcribed as [w]). Consonantal modifier letters can also be used to 
+transcribe sounds that involve a secondary consonantal articulation in addition to the dominant 
+consonant, either simultaneously or as a transitional effect, such as a lateral release (typically 
+transcribed as [ˡ]). 
+The most commonly-used consonant modifier letters are already encoded in the UCS. Several 
+others are also in use, however. The inventory that seems to be needed includes nasals (e.g. to 
+transcribe nasal onset or release of oral stops), fricatives (for fricative release of stops), 
+approximants and some stops. Modifier counterparts for other symbols, such as clicks and trills, 
+are not required. The samples shown below demonstrate attestation of most of the proposed 
+inventory. The proposed consonant modifiers are listed along with an index to the samples 
+illustrating each one in Table 4 to Table 7. 
+Note that a modifier counterpart to small c is proposed. The small letter c is used to represent a 
+palatal stop. In fact, the modifier that is attested (see Figure 48) is c-cedilla, which represents a 
+palatal fricative. It is assumed that that a voiceless affricate with a secondary palatal fricative 
+component can be represented using a sequence < modifier letter small c, combining cedilla >. 
+This requires, though, that the modifier letter small c be encoded. 
+Note also that modifier letters l-palatal hook and t-palatal hook are proposed. While the use of 
+palatal hook for indicating palatalization is no longer an IPA recommendation, l-palatal hook 
+and t-palatal hook are proposed here because they are attested, as seen in the samples. 
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 27 of 41 
+Character 
+Samples 
+1DAC 
+ 
+MODIFIER LETTER SMALL M WITH HOOK 
+Figure 45 
+1DAE 
+ 
+MODIFIER LETTER SMALL N WITH LEFT HOOK 
+Figure 42, Figure 43, 
+Figure 44, Figure 46, 
+Figure 47 
+1DAF 
+ 
+MODIFIER LETTER SMALL N WITH RETROFLEX HOOK 
+Figure 43, Figure 44 
+1DB0 
+ 
+MODIFIER LETTER SMALL CAPITAL N 
+Figure 43, Figure 44 
+Table 4. Proposed nasal consonant modifier letters and figures that illustrate them 
+Character 
+Samples 
+1D9C 
+ 
+MODIFIER LETTER SMALL C (base for c-cedilla) 
+Figure 48, Figure 52 
+1D9D 
+ 
+MODIFIER LETTER SMALL C WITH CURL 
+Figure 53, Figure 57 
+1D9E 
+ 
+MODIFIER LETTER SMALL ETH 
+Figure 49 
+1DA0 
+ 
+MODIFIER LETTER SMALL F 
+Figure 48, Figure 50, 
+Figure 58 
+1DA8 
+ 
+MODIFIER LETTER SMALL J WITH CROSSED-TAIL 
+Figure 49 
+1DB2 
+ 
+MODIFIER LETTER SMALL PHI 
+Figure 48 
+1DB3 
+ 
+MODIFIER LETTER SMALL S WITH HOOK 
+Figure 42, Figure 48 
+1DB4 
+ 
+MODIFIER LETTER SMALL ESH 
+Figure 48, Figure 51, 
+Figure 52, Figure 57, 
+Figure 58 
+1DBB 
+ 
+MODIFIER LETTER SMALL Z 
+Figure 49, Figure 51, 
+Figure 57, Figure 58 
+1DBC 
+ 
+MODIFIER LETTER SMALL Z WITH RETROFLEX HOOK 
+Figure 42, Figure 49 
+1DBD 
+ 
+MODIFIER LETTER SMALL Z WITH CURL 
+Figure 42, Figure 53, 
+Figure 57 
+1DBE 
+ 
+MODIFIER LETTER SMALL EZH 
+Figure 49, Figure 52, 
+Figure 58 
+1DBF 
+ 
+MODIFIER LETTER SMALL THETA 
+Figure 48, Figure 51, 
+Figure 54, Figure 55, 
+Figure 56 
+Table 5. Proposed fricative consonant modifier letters and figures that illustrate them 
+The only IPA fricative symbol for which attestation of a corresponding modifier letter was not 
+found is small h with stroke “”.  
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 28 of 41 
+Character 
+Samples 
+1DA3 
+ 
+MODIFIER LETTER SMALL TURNED H 
+Figure 59 
+1DA9 
+ 
+MODIFIER LETTER SMALL L WITH RETROFLEX HOOK 
+Figure 62 
+1DAA 
+ 
+MODIFIER LETTER SMALL L WITH PALATAL HOOK 
+Figure 62 
+1DAB 
+ 
+MODIFIER LETTER SMALL CAPITAL L 
+Figure 42 
+1DAD 
+ 
+MODIFIER LETTER SMALL TURNED M WITH LONG LEG 
+Figure 64 
+1DB9 
+ 
+MODIFIER LETTER SMALL V WITH HOOK 
+Figure 61 
+Table 6. Proposed approximant consonant modifier letters and figures that illustrate them 
+The only IPA approximant symbol for which attestation of a corresponding modifier letter was 
+not found is small turned y “”.  
+Character 
+Samples 
+1DA1 
+ 
+MODIFIER LETTER SMALL DOTLESS J WITH STROKE 
+Figure 53 
+1DA2 
+ 
+MODIFIER LETTER SMALL SCRIPT G 
+Figure 53, Figure 60 
+1DB5 
+ 
+MODIFIER LETTER SMALL T WITH PALATAL HOOK 
+Figure 63 
+Table 7. Proposed stop consonant modifier letters and figures that illustrate them 
+A small glottal stop modifier “” (the mirror counterpart to U+02E4 MODIFIER LETTER 
+SMALL REVERSED GLOTTAL STOP) is also attested. Potentially, however, the modifier small 
+glottal stop can be unified with U+02C0 MODIFIER LETTER GLOTTAL STOP. A new character 
+is not proposed at this time.  
+In the samples below, modifiers that are already encoded will be highlighted in blue, while 
+those being proposed will be highlighted in red. 
+Figure 42. Consonant modifier letters: s-hook, z-curl, z-retroflex hook, n-lefthook, small capital L (Laver 1994, p. 559). 
+Figure 43. Consonant modifier letters: n-left hook, n-retroflex hook, small capital n (Laver 1994, p. 583). 
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 29 of 41 
+Figure 44. Consonant modifier letters: n-left hook, n-retroflex hook, small capital n (Laver 1994, p. 584). 
+Figure 45. Consonant modifier letters: m-hook, n-left hook (Burquist 2001, p. 118). 
+Figure 46. Consonant modifier letter: n with left hook (Evans 1995, p. 732). 
+Figure 47. Consonant modifier letter: n with left hook (Pigott 1997, p. 469). 
+Figure 48. Consonant modifier letters: phi, f, theta, esh, s-hook, c-cedilla (Laver 1994, p. 581). 
+Figure 49. Consonant modifier letters: eth, z, ezh, z-retroflex hook, crossed-tail j (Laver 1994, p. 581). 
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 30 of 41 
+Figure 50. Consonant modifier letter: f (Kraehenmann 2001, p. 139). 
+Figure 51. Consonant modifier letters: theta, esh, z (Laver 1994, p. 559). 
+Figure 52. Consonant modifier letters: esh, ezh, c-cedilla (Laver 1994, p. 364). 
+Figure 53. Consonant modifier letters: c-curl, script g, dotless j-stroke, z-curl (Burenhult 2001, p. 35). 
+Figure 54. Consonant modifier letter: theta (Hukari et al, p. 43). 
+Figure 55. Consonant modifier letter: theta (IPA 1999, p. 179). 
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 31 of 41 
+Figure 56. Consonant modifier letter: theta (Gerdts 1998, p. 309). 
+Figure 57. Consonant modifier letters: c-curl, esh, z, z-curl (Kim 2001, p. 93). 
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 32 of 41 
+Figure 58. Consonant modifier letters: f, esh, z, ezh (Kim 2001, p. 91). 
+Figure 59. Consonant modifier letter: turned h (Laver 1994, p. 365). 
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 33 of 41 
+Figure 60. Consonant modifier letter: script g (Brewster and Brewster 1976, p. 275). 
+Figure 61. Consonant modifier letter: v-hook (Laver 1994, p. 323). 
+Figure 62. Consonant modifier letters: l-retroflex hook, l-palatal hook (Evans 1995, p. 735). 
+Note that there is a typographic anomaly in the sample shown in Figure 62: retroflex (right-
+turning) hooks have been used on the t and modifier l, but the author was clearly discussing 
+palatalization. What the author was intending, then, was a modifier l-palatal hook. It is not clear 
+whether this was merely a typographic error or an attempt to approximate the palatal hook to 
+compensate for an incomplete selection of type; it is clear, though, that the appropriate 
+character to encode in this case is modifier l-palatal hook. 
+Figure 63. Consonant modifier letter: t-palatal hook (Halle 1971, p. 71). 
+Figure 64. Consonant  modifier letters: turned-m with long leg (Golston and Kehrein 1998, p. 323). 
+E.5 Other phonetic symbols 
+E.5.1 
+LATIN SMALL LETTER C WITH STROKE 
+The character LATIN SMALL LETTER C WITH STROKE is often used to represent a voiceless 
+alveolar affricate, particularly by Americanist linguists. 
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 34 of 41 
+Figure 65. From Brody (1986), p. 261. 
+Figure 66. From Campbell (1976), p. 124. 
+Figure 67. From Robertson (1999), p. 457. 
+Note that this character has similar appearance to one of the glyph variants of U+00A2 CENT 
+SIGN. That character has other glyph variants, however, such as “¢”, that are not acceptable for 
+phonetic transcription. Moreover, phonetic symbols often are adopted for orthographic uses, 
+potentially along with a case pair. The character properties of U+00A2 (e.g. General Category 
+Sc) are not appropriate for phonetic characters, given that potential for orthographic use. For 
+these reasons, unification with U+00A2 is not recommended; a distinct character is preferable. 
+Also, question 9 of section C above asks whether any of the proposed characters can be encoded 
+as a character sequence. LATIN SMALL LETTER C WITH STROKE might be conceived as 
+being represented as a sequence involving the overlay character U+0338 COMBINING LONG 
+SOLIDUS OVERLAY. It is suggested that this would be inappropriate, however, and that 
+encoding using an atomic character is very much to be preferred.  
+Apart from certain mathematical operators that decompose into sequences using this overlay 
+character, there is a clear precedent for Latin characters not to represent characters such as 
+LATIN SMALL LETTER C WITH STROKE using sequences involving U+0338: there are several 
+Latin characters with stroke encoded in the UCS, but none of them has a decomposition 
+involving U+0338: 
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 35 of 41 
+00D8 
+Ø 
+LATIN CAPITAL LETTER O WITH STROKE 
+00F8 
+ø 
+LATIN SMALL LETTER O WITH STROKE 
+0141 
+Ł 
+LATIN CAPITAL LETTER L WITH STROKE 
+0142 
+ł 
+LATIN SMALL LETTER L WITH STROKE 
+019B 
+ƛ 
+LATIN SMALL LETTER LAMBDA WITH STROKE 
+01FE 
+Ǿ 
+LATIN CAPITAL LETTER O WITH STROKE AND ACUTE 
+01FF 
+ǿ 
+LATIN SMALL LETTER O WITH STROKE AND ACUTE 
+1D0C 
+ᴌ 
+LATIN LETTER SMALL CAPITAL L WITH STROKE 
+Table 8. Latin characters in the UCS with diagonal stroke but no decomposition to sequences with U+0338 
+Therefore, insofar as existing characters with overlaid stroke are not considered presentation 
+forms of existing sequences, LATIN SMALL LETTER C WITH STROKE likewise should not be 
+considered a presentation form of some existing sequence. 
+E.5.2 
+The characters LATIN SMALL LETTER DB DIGRAPH and LATIN SMALL LETTER QP DIGRAPH 
+These characters are used to represent labiodental stops, which are known to occur in some 
+Bantu languages. These characters have been used primarily by Africanists in language 
+descriptions, but are also attested in general works on phonetics and phonology. 
+Figure 68. From Doke (1950), p. 17. 
+Figure 69. From Guthrie (1967), p. 61. 
+Figure 70. From Ladefoged and Maddieson (1996), p. 18. 
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 36 of 41 
+E.5.3 
+The character LATIN SMALL LETTER IOTA WITH STROKE 
+This character is used by Slavic linguists in descriptions of Russian: 
+Figure 71. From Jones and Ward (1969), p. 81. 
+Figure 72. From Ward (1966), p. 3. 
+Figure 73. From Wade (2000), p. 2.5 
+E.5.4 
+The characters LATIN SMALL CAPITAL LETTER I WITH STROKE, LATIN SMALL CAPITAL LETTER U 
+WITH STROKE and LATIN SMALL LETTER UPSILON WITH STROKE 
+The characters LATIN SMALL CAPITAL LETTER I WITH STROKE and LATIN SMALL 
+CAPITAL LETTER U WITH STROKE are used by some Americanist linguists to represent 
+central lower-high vocoids: 
+                                                     
+5 In this sample, the region of intersection where the stroke crosses the stem of the iota appears blank. This is a 
+font / rendering error and should be ignored. 
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 37 of 41 
+Figure 74. From Pullum and Ladusaw (1996), p. 298. 
+Figure 75. From Bailey (1985), p. xxiii. 
+The barred small capital I is also used in some recent Oxford dictionaries (though with a 
+different meaning), as is the barred upsilon: 
+Figure 76. From Upton et al (2003). 
+Figure 77. From Upton et al (2003). 
+E.5.5 
+LATIN SMALL LETTER P WITH STROKE 
+In the Americanist tradition, barred stop symbols are often used to represent fricatives, with 
+barred-p representing a voiceless bilabial fricative.  
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 38 of 41 
+Figure 78. From Brewster and Brewster (1976), p. 279. 
+Figure 79. From Campbell (1977), p. 4. 
+Figure 80. From Smalley (1989), p. 454. 
+Figure 81. From Kroeker (2001), p. 78. 
+Figure 82. From Parker (2001), p. 109. 
+E.5.6 
+COMBINING SNAKE BELOW 
+The COMBINING SNAKE BELOW is used by some in the Americanist tradition to indicate 
+lenis (weak) articulation. 
+Figure 83. From Floyd (1981), p. 117. 
+Figure 84. From Mills (1984), p. xxii. 
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 39 of 41 
+Figure 85. From Lengyel  (1991), p. 343. 
+F. References 
+Bailey, Charles-James N. 1985. English phonetic transcription. (Summer Institute of Linguistics 
+Publications in Linguistics, 74.) Dallas: Summer Institute of Linguistics and University of 
+Texas at Arlington. 
+Bessell, Nicola J. 1998. “Local and non-local consonant-vowel interaction in Interior Salish.” 
+Phonology 15.1–40. 
+Boyanus, S.C., and N.B. Jopson. 1939. Spoken Russian: A practical course. London: Sidgewick and 
+Sons. 
+Brewster, E. Thomas, and Elizabeth S. Brewster. 1976. Language acquisition made practical: Field 
+methods for language learners. Colorado Springs, CO: Lingua House. 
+Brink, Lars; Jørn Lund, Steffen Heger, J. Normann Jørgensen. 1991. Den Store Danske 
+Udtaleordbog. [Copenhagen:] Munksgaard Ordbøger. 
+Brody, Jill. 1986. “Repetition as a rhetorical and conversational device in Tojolobal (Mayan).” 
+International Journal of American Linguistics 52.255-74. 
+Burenhult, Niclas. 2001. “Jahai phonology: A preliminary survey.” Mon-Khmer Studies 31.29–45. 
+Burquest, Donald A. 2001. Phonological analysis: a functional approach. 2nd edn., revised. Dallas: SIL 
+International. 
+Campbell, Lyle. 1977. Quichean linguistic prehistory. (University of California publications in 
+linguistics, 81.) Berkeley, CA: University of California Press. 
+Catford, J.C. 1988. A practical introduction to phonetics. Oxford: Clarendon Press. 
+Clark, Ben T. 1983. Russian. 3rd edn. New York: Harper & Row. 
+Clark, John, and Colin Yallop. 1995. An introduction to phonetics and phonology, 2nd edn. (Blackwell 
+textbooks in linguistics.) Oxford: Blackwell. 
+Cruttenden, Alan, ed. 2001. Gimson's pronunciation of English. 6th edn. London: Arnold; and New 
+York: Oxford University Press. 
+Czaykowska-Higgins, Ewa, and Marie Louise Willett. 1997. “Simple syllables in Nxaʔamxcín.” 
+International Journal of American Linguistics 63.385–411. 
+Dawson, Clayton L.; Charles E. Bidwell; and Assya Humesky. 1964. Modern Russian. 
+Washington, D.C.: Georgetown University Press. 
+Diehl, Lon. 1995. “IPA phonetic symbols for describing languages of East and Southeast Asia.” 
+Ms. 
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 40 of 41 
+Doke, Clement M. 1950. Text-book of Zulu grammar. London: Longmans, Green & Co. 
+Evans, Nick. 1995. “Current issues in the phonology of Australian languages.” The handbook of 
+phonological theory (Blackwell handbooks in linguistics, 1), ed. by John A. Goldsmith, 723–61. 
+Oxford: Blackwell Publishers. 
+Floyd, Rick. 1981. Manual for articulatory phonetics. Dallas: Summer Institute of Linguistics. 
+Gerdts, Donna. 1998. “Mapping Halkomelem voice.” Salish languages and linguistics: theoretical 
+and descriptive perspectives (Trends in linguistics: studies and monographs, 107), ed. by E. 
+Czaykowska-Higgins and M.D. Kinkade, 305–24. 
+Golston, Chris, and Wolfgang Kehrein. 1998. “Mazatec onsets and nuclei.” International Journal 
+of American Linguistics 64.311–337. 
+Guthrie, Malcolm. 1967. The classification of the Bantu languages. London: International African 
+Institute. 
+Halle, Morris. 1971. The sound pattern of Russian. The Hague: Mouton & Co. 
+――. 1994. “The Russian declension: an illustration of the theory of distributed morphology.” 
+Perspectives in phonology (CSLI lecture notes, 51), ed. by Jennifer Cole and Charles Kisseberth, 
+29–60. Stanford, CA: CSLI Publications. 
+Hoyle, Richard A. 2001. Scenarios, discourse and translation: The scenario theory of Cognitive 
+Linguistics, its relevance for analysing New Testament Greek and modern Parkari texts, and its 
+implications for translation theory. University of Surrey Roehampton PhD thesis. 
+Hukari, Thomas E.; Ruby Peter; and Ellen White. “Halkomelem.” Northwest coast texts 
+(International journal of American linguistics native American text series, volume 2, number 3), ed. 
+By Barry F. Carlson, 33–68. Chicago: University of Chicago Press. 
+International Phonetic Association (L’association Phonétique Internationale). 1946. “parti 
+administratiːv.” Le maître phonétique 85:1, p. 16–7. 
+――. 1999. Handbook of the International Phonetic Association. Cambridge: Cambridge University 
+Press. 
+Jones, Daniel, and Dennis Ward. 1969. The phonetics of Russian. Cambridge: Cambridge 
+University Press. 
+Kim, Hyunsoon. 2001. “A phonetically based account of phonological stop assibilation.” 
+Phonology 18.81–108. 
+Kraehenmann, Astrid. 2001. “Swiss German stops; geminates all over the word.” Phonology 
+18.109–45. 
+Kroeker, Menno. 2001. “A descriptive grammar of Nambikuara.” International Journal of 
+American Linguistics 67.1–87. 
+Ladefoged, Peter, and Ian Maddieson. 1996. The sounds of the world's languages. Oxford: 
+Blackwell Publishers. 
+
+N2740 – Proposal to Encode Additional Phonetic Characters in the UCS 
+Page 41 of 41 
+Laver, John. 1994. Principles of phonetics. (Cambridge textbooks in linguistics.) Cambridge: 
+Cambridge University Press. 
+Lengyel, Thomas E. 1991. “Toward a dialectology of Ixil Maya: variation across communities 
+and individuals.” International Journal of American Linguistics 57.330–64. 
+Lojenga, Constance Kutsch. 1994. Ngiti: a Central-Sudanic language of Africa. (Nilo-Saharan 
+linguistic analyses and documentation, 9.) Köln: Rüdiger Köppe Verlag. 
+Malone, Joseph L. 1999. “Some observations on the Ojibwa preverb bi.” International Journal of 
+American Linguistics 65.343–370. 
+Mills, Elizabeth. 1984. Senoufo phonology, discourse to syllable (a prosodic approach). (Summer 
+Institute of Linguistics publications in linguistics, 72.) Dallas: Summer Institute of Linguistics 
+and University of Texas at Arlington. 
+Parker, Steve. 2001. “On the phonemic status of [h] in Tiriyó.” International Journal of American 
+Linguistics 67.105–18. 
+Pigott, G.L. 1997. “Licensing and alignment: a conspiracy in harmony.” Phonology 14.437–77. 
+Pullum, Geoffrey K., and William A. Ladusaw. 1996. Phonetic symbol guide, 2nd edn. Chicago: 
+University of Chicago Press. 
+Robertson, John S. 1999. “The history of first-person singular in the Mayan languages.” 
+International Journal of American Linguistics 65.449–65. 
+Tucker, A.N. 1971. “Orthographic systems and conventions in Sub-Saharan Africa.” Current 
+trends in linguistics, volume 7: Linguistics in Sub-Saharan Africa, ed. by Thomas A. Sebeok, 618–
+53. The Hague: Mouton. 
+Upton, Clive; William Kretzschmar; and Rafal Konopka. 2003. The Oxford Dictionary of 
+Pronunciation for Current English. Oxford: Oxford University Press. 
+Wade, Terence. 2000. A Comprehensive Russian Grammar. 2nd edn. Oxford: Blackwell. 
+Ward, Dennis. 1966. Russian pronunciation illustrated. Cambridge: Cambridge University Press. 
+Wayland, Ratree P., and Allard Jongman. 2001. “Chanthaburi Khmer vowels: Phonetic and 
+phonemic analyses.” Mon-Khmer Studies 31.65–82. 
+ 
