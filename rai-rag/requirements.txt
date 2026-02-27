@@ -1,0 +1,17 @@
+pymongo
+python-dotenv
+openai
+langchain
+langchain-openai
+langchain-community
+langchain-core
+chromadb
+python-multipart
+python-docx
+pypdf
+PyPDF2
+python-dotenv
+python-docx
+pypdf
+PyPDF2
+langchain-openai
